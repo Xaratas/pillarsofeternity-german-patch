@@ -6,12 +6,12 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Ich wurde nicht eingelassen. Sie sagten, ich wäre nicht 'kultiviert' oder 'angesehen' genug für ihren Klub." </DefaultText>
+      <DefaultText>„Ich wurde nicht eingelassen. Sie sagten, ich wäre nicht ‚kultiviert‘ oder ‚angesehen‘ genug für ihren Klub.“ </DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Elitistische Bastarde."</DefaultText>
+      <DefaultText>„Elitistische Bastarde.“</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

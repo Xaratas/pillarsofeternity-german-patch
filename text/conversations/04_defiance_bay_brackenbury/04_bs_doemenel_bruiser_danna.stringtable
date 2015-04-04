@@ -6,22 +6,22 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Du solltest mit Danna sprechen. Und achte auf deine Manieren."</DefaultText>
+      <DefaultText>„Du solltest mit Danna sprechen. Und achte auf deine Manieren.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Du hast mit mir nichts zu schaffen."</DefaultText>
+      <DefaultText>„Du hast mit mir nichts zu schaffen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Du hast das gut gemeistert gerade."</DefaultText>
+      <DefaultText>„Du hast das gut gemeistert gerade.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Diese Narren werden nicht wissen, wie ihnen geschieht."</DefaultText>
+      <DefaultText>„Diese Narren werden nicht wissen, wie ihnen geschieht.“</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

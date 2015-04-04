@@ -66,7 +66,7 @@
     </Entry>
     <Entry>
       <ID>12</ID>
-      <DefaultText>Abstraktes Denken, das Aufeinanderprallen von Idealen, die Vorstellung von Gut und Böse und Richtig und Falsch, sowie das Streben nach der ultimativen Wahrheit - dies sind die Dinge, die dein Blut schon immer in Wallung und deinen Verstand zum Rasen brachten ... und zwar so sehr, dass du dein Leben so gestaltet hast, dass du dir die Zeit mit dem Nachdenken über ausweichende Antworten und dem Infragestellen akzeptierter Überzeugungen vertreiben kannst.</DefaultText>
+      <DefaultText>Abstraktes Denken, das Aufeinanderprallen von Idealen, die Vorstellung von Gut und Böse und Richtig und Falsch, sowie das Streben nach der ultimativen Wahrheit - dies sind die Dinge, die dein Blut schon immer in Wallung und deinen Verstand zum Rasen brachten … und zwar so sehr, dass du dein Leben so gestaltet hast, dass du dir die Zeit mit dem Nachdenken über ausweichende Antworten und dem Infragestellen akzeptierter Überzeugungen vertreiben kannst.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -216,7 +216,7 @@
     </Entry>
     <Entry>
       <ID>43</ID>
-      <DefaultText>Darin sprach er dich als "Inquisitor" an und bezog sich auf eine wachsende Bewegung um eine ketzerische Frau namens Iovara ix Ensios, die er verhaften wollte.</DefaultText>
+      <DefaultText>Darin sprach er dich als „Inquisitor“ an und bezog sich auf eine wachsende Bewegung um eine ketzerische Frau namens Iovara ix Ensios, die er verhaften wollte.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -236,7 +236,7 @@
     </Entry>
     <Entry>
       <ID>47</ID>
-      <DefaultText>Bei den Docks der Grabinsel hattest du eine weitere Vision von Iovara. Sie machte sich Sorgen um ihre Heimatstadt und dachte über die Aushebung einer Armee nach, um sich Thaos' Inquisition zu widersetzen. Du gehorchtest Thaos' Befehl und sagtest ihr, sie solle in Ossionus Zuflucht suchen, obgleich der dortige König bereits darauf vorbereitet war, sie in die Fänge der Inquisition zu geben.</DefaultText>
+      <DefaultText>Bei den Docks der Grabinsel hattest du eine weitere Vision von Iovara. Sie machte sich Sorgen um ihre Heimatstadt und dachte über die Aushebung einer Armee nach, um sich Thaos‚ Inquisition zu widersetzen. Du gehorchtest Thaos‘ Befehl und sagtest ihr, sie solle in Ossionus Zuflucht suchen, obgleich der dortige König bereits darauf vorbereitet war, sie in die Fänge der Inquisition zu geben.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -331,7 +331,7 @@
     </Entry>
     <Entry>
       <ID>66</ID>
-      <DefaultText>Als du zu schlafen versuchtest, warst du ruhelos. Dein Kopf war voller Geflüster und du hattest einen heftigen Albtraum. Du sahst eine alte Zwergenfrau von einem Baum im Zentrum von Goldtal baumeln. Sie sagte ein einzelnes Wort zu dir: "Wächter."</DefaultText>
+      <DefaultText>Als du zu schlafen versuchtest, warst du ruhelos. Dein Kopf war voller Geflüster und du hattest einen heftigen Albtraum. Du sahst eine alte Zwergenfrau von einem Baum im Zentrum von Goldtal baumeln. Sie sagte ein einzelnes Wort zu dir: „Wächter.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -341,17 +341,17 @@
     </Entry>
     <Entry>
       <ID>68</ID>
-      <DefaultText>Du nähertest dich der gehängten Zwergenfrau aus deinen Träumen und fandest heraus, dass du irgendwie mit ihr kommunizieren konntest. Du erfuhrst, dass du ein Wächter bist, was vermutlich durch dein Aufeinandertreffen mit dem Tod in den Ruinen ausgelöst wurde, und dass dies dir eine Art von jenseitiger Sicht gegeben hat ... obwohl dir die Zwergin nur wenige Einzelheiten erzählen kann. Sie riet dir, dich mit einem alten Wächter namens Maerwald zu unterhalten, der in der Gegend ein Burgherr sei und dir eventuell helfen könnte.</DefaultText>
+      <DefaultText>Du nähertest dich der gehängten Zwergenfrau aus deinen Träumen und fandest heraus, dass du irgendwie mit ihr kommunizieren konntest. Du erfuhrst, dass du ein Wächter bist, was vermutlich durch dein Aufeinandertreffen mit dem Tod in den Ruinen ausgelöst wurde, und dass dies dir eine Art von jenseitiger Sicht gegeben hat … obwohl dir die Zwergin nur wenige Einzelheiten erzählen kann. Sie riet dir, dich mit einem alten Wächter namens Maerwald zu unterhalten, der in der Gegend ein Burgherr sei und dir eventuell helfen könnte.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>69</ID>
-      <DefaultText>Du kamst in Caed Nua an und fandest den Ort von bösen Geistern heimgesucht vor ... und der Aufenthaltsort des Burgherrn war der über die Burg wachende Burgvogtin unbekannt.</DefaultText>
+      <DefaultText>Du kamst in Caed Nua an und fandest den Ort von bösen Geistern heimgesucht vor … und der Aufenthaltsort des Burgherrn war der über die Burg wachende Burgvogtin unbekannt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>70</ID>
-      <DefaultText>Maerwald befand sich in den Verliesen unterhalb seiner eigenen Burg und versteckte sich dort vor Geistern, die sein gefolterter Verstand halluzinierte. Seine Seele wurde zu seinen vergangenen Leben erweckt, und unlösbarer innerer Konflikt aus längst vergangenen Zeiten hatte ihn in den Wahnsinn getrieben. Er warnte dich, dass auch du seinen Zustand und sein Schicksal teilen könntest. Trotzdem deutete er auch an, dass es einen Weg geben könnte, deine Erweckung rückgängig zu machen. Er sagte dir, den Bleiernen Schlüssel aufzusuchen, dieselbe Gruppe, auf die du vor den Ruinen getroffen warst ... und von ihnen zu erfahren, wie deine Erweckung rückgängig zu machen sei.</DefaultText>
+      <DefaultText>Maerwald befand sich in den Verliesen unterhalb seiner eigenen Burg und versteckte sich dort vor Geistern, die sein gefolterter Verstand halluzinierte. Seine Seele wurde zu seinen vergangenen Leben erweckt, und unlösbarer innerer Konflikt aus längst vergangenen Zeiten hatte ihn in den Wahnsinn getrieben. Er warnte dich, dass auch du seinen Zustand und sein Schicksal teilen könntest. Trotzdem deutete er auch an, dass es einen Weg geben könnte, deine Erweckung rückgängig zu machen. Er sagte dir, den Bleiernen Schlüssel aufzusuchen, dieselbe Gruppe, auf die du vor den Ruinen getroffen warst … und von ihnen zu erfahren, wie deine Erweckung rückgängig zu machen sei.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -466,7 +466,7 @@
     </Entry>
     <Entry>
       <ID>93</ID>
-      <DefaultText>Du folgtest Thaos' Spur zur Dunrydstraße, deren Medien du allesamt ermordet auffandest - darunter Lady Webb. Durch die Untersuchung ihrer Seele nach den letzten Moment ihres Lebens konntest du jedoch erfahren, dass sich Thaos als nächstes nach Zwillingsulmen begeben würde.</DefaultText>
+      <DefaultText>Du folgtest Thaos’ Spur zur Dunrydstraße, deren Medien du allesamt ermordet auffandest - darunter Lady Webb. Durch die Untersuchung ihrer Seele nach den letzten Moment ihres Lebens konntest du jedoch erfahren, dass sich Thaos als nächstes nach Zwillingsulmen begeben würde.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -486,7 +486,7 @@
     </Entry>
     <Entry>
       <ID>97</ID>
-      <DefaultText>In Teir Evron sprachst du mit den Göttern und erfuhrst, dass Thaos' Verschwörung nicht mit der Vernichtung der Beseelung im Dyrwald endet. Thaos beabsichtigt nämlich, die gestohlenen Seelen Woedica zu geben - was wahrscheinlich ihre Vorherrschaft über die anderen Götter wiederherstellen würde.</DefaultText>
+      <DefaultText>In Teir Evron sprachst du mit den Göttern und erfuhrst, dass Thaos’ Verschwörung nicht mit der Vernichtung der Beseelung im Dyrwald endet. Thaos beabsichtigt nämlich, die gestohlenen Seelen Woedica zu geben - was wahrscheinlich ihre Vorherrschaft über die anderen Götter wiederherstellen würde.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -561,17 +561,17 @@
     </Entry>
     <Entry>
       <ID>112</ID>
-      <DefaultText>Skaen wendete sich im Geheimen an dich, und bat dich, die anderen Götter zu hintergehen und zur Stärkung Woedicas Thaos' Platz einzunehmen - und du nahmst das Angebot an.</DefaultText>
+      <DefaultText>Skaen wendete sich im Geheimen an dich, und bat dich, die anderen Götter zu hintergehen und zur Stärkung Woedicas Thaos’ Platz einzunehmen - und du nahmst das Angebot an.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>113</ID>
-      <DefaultText>Skaen wendete sich im Geheimen an dich, und bat dich, die anderen Götter zu hintergehen und zur Stärkung Woedicas Thaos' Platz einzunehmen - und du lehntest das Angebot ab.</DefaultText>
+      <DefaultText>Skaen wendete sich im Geheimen an dich, und bat dich, die anderen Götter zu hintergehen und zur Stärkung Woedicas Thaos’ Platz einzunehmen - und du lehntest das Angebot ab.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>114</ID>
-      <DefaultText>Skaen wendete sich im Geheimen an dich, und bat dich, die anderen Götter zu hintergehen und zur Stärkung Woedicas Thaos' Platz einzunehmen - und du schlugst das Angebot weder aus, noch nahmst du es an.</DefaultText>
+      <DefaultText>Skaen wendete sich im Geheimen an dich, und bat dich, die anderen Götter zu hintergehen und zur Stärkung Woedicas Thaos’ Platz einzunehmen - und du schlugst das Angebot weder aus, noch nahmst du es an.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -611,17 +611,17 @@
     </Entry>
     <Entry>
       <ID>122</ID>
-      <DefaultText>Du schicktest Thaos' Seele zurück in den Kreislauf, auf dass er gezwungen sei, für den Rest seiner Tage mit seinem Scheitern zu leben und die Sinnlosigkeit seiner Mission zu verstehen.</DefaultText>
+      <DefaultText>Du schicktest Thaos’ Seele zurück in den Kreislauf, auf dass er gezwungen sei, für den Rest seiner Tage mit seinem Scheitern zu leben und die Sinnlosigkeit seiner Mission zu verstehen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>123</ID>
-      <DefaultText>Du risst Thaos' Seele in Stücke, was für einen Mann, der unter der Bürde eines Geheimnisses wie dem vom Bleiernen Schlüssel gehüteten lebt, einer Gnade gleichkam.</DefaultText>
+      <DefaultText>Du risst Thaos’ Seele in Stücke, was für einen Mann, der unter der Bürde eines Geheimnisses wie dem vom Bleiernen Schlüssel gehüteten lebt, einer Gnade gleichkam.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>124</ID>
-      <DefaultText>Du schicktest Thaos' Seele nach Breith Eaman und verurteiltest sie, für immer dort zu bleiben. Auf diese Weise gewährtest du all denen Gerechtigkeit, den er Unrecht angetan hatte, und verhindertest weitere Verschwörungen.</DefaultText>
+      <DefaultText>Du schicktest Thaos’ Seele nach Breith Eaman und verurteiltest sie, für immer dort zu bleiben. Auf diese Weise gewährtest du all denen Gerechtigkeit, den er Unrecht angetan hatte, und verhindertest weitere Verschwörungen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -631,12 +631,12 @@
     </Entry>
     <Entry>
       <ID>126</ID>
-      <DefaultText>Als Bestrafung für seine Verbrechen und seine persönlichen Beleidigungen deiner Person risst du Thaos' Seele in Stücke und vernichtetest ihn dadurch für immer.</DefaultText>
+      <DefaultText>Als Bestrafung für seine Verbrechen und seine persönlichen Beleidigungen deiner Person risst du Thaos’ Seele in Stücke und vernichtetest ihn dadurch für immer.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>127</ID>
-      <DefaultText>Durch Thaos' Tod warst du in der Lage, endlich eine Bestätigung des Ursprungs und der Natur der Götter zu erlangen, und diese Antworte scheint deiner Seele etwas Erleichterung zu bringen. Die Halluzinationen und das Geflüster gingen zurück. Nun blieb nur noch übrig, über die Zukunft der in Sonne im Schatten gefangenen Seelen zu entscheiden.</DefaultText>
+      <DefaultText>Durch Thaos’ Tod warst du in der Lage, endlich eine Bestätigung des Ursprungs und der Natur der Götter zu erlangen, und diese Antworte scheint deiner Seele etwas Erleichterung zu bringen. Die Halluzinationen und das Geflüster gingen zurück. Nun blieb nur noch übrig, über die Zukunft der in Sonne im Schatten gefangenen Seelen zu entscheiden.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

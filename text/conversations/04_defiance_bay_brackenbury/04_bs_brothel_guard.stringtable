@@ -6,22 +6,22 @@
   <Entries>
     <Entry>
       <ID>5</ID>
-      <DefaultText>"Sprich mit Maea, wenn du etwas über die Attraktionen erfahren möchtest."</DefaultText>
+      <DefaultText>„Sprich mit Maea, wenn du etwas über die Attraktionen erfahren möchtest.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>"Bezahle rechtzeitig und benimm dich anständig und du bekommst keinen Ärger."</DefaultText>
+      <DefaultText>„Bezahle rechtzeitig und benimm dich anständig und du bekommst keinen Ärger.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>"Ich arbeite Überstunden, seit der Aufstand ausgebrochen ist."</DefaultText>
+      <DefaultText>„Ich arbeite Überstunden, seit der Aufstand ausgebrochen ist.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>"Behalte bloß deinen Dolch in der Scheide."</DefaultText>
+      <DefaultText>„Behalte bloß deinen Dolch in der Scheide.“</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

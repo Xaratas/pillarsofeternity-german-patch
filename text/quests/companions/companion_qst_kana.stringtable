@@ -48,7 +48,7 @@ Er ist begierig darauf, die Ruinen zu erkunden, und hat mich diesbezüglich um m
     </Entry>
     <Entry>
       <ID>10003</ID>
-      <DefaultText>Wir haben die versiegelte Tür überwunden, die in die unteren Bereiche der Endlosen Pfade führt. Kana Rua glaubt, dass Gabrannos einst hier gearbeitet hat. Es ist ein düsterer Ort, an dem Kana Rua trotz alledem gern zu sein scheint. Es wäre wohl das Beste, würden wir Gabrannos' Überreste oder seine Arbeit schnell finden.</DefaultText>
+      <DefaultText>Wir haben die versiegelte Tür überwunden, die in die unteren Bereiche der Endlosen Pfade führt. Kana Rua glaubt, dass Gabrannos einst hier gearbeitet hat. Es ist ein düsterer Ort, an dem Kana Rua trotz alledem gern zu sein scheint. Es wäre wohl das Beste, würden wir Gabrannos’ Überreste oder seine Arbeit schnell finden.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -63,7 +63,7 @@ Er ist begierig darauf, die Ruinen zu erkunden, und hat mich diesbezüglich um m
     </Entry>
     <Entry>
       <ID>30000</ID>
-      <DefaultText>Es stellte sich heraus, dass die Tafel, nach der Kana Rua suchte, schon vor langer Zeit zerstört wurde - aber wir können unmöglich herausfinden, von wem ... oder was. Kana scheint diese Offenbarung schwer getroffen zu haben. Ich habe versucht, ihn zu ermutigen - welche Antworten wir auch immer finden werden, sie scheinen noch vor uns zu liegen.</DefaultText>
+      <DefaultText>Es stellte sich heraus, dass die Tafel, nach der Kana Rua suchte, schon vor langer Zeit zerstört wurde - aber wir können unmöglich herausfinden, von wem … oder was. Kana scheint diese Offenbarung schwer getroffen zu haben. Ich habe versucht, ihn zu ermutigen - welche Antworten wir auch immer finden werden, sie scheinen noch vor uns zu liegen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

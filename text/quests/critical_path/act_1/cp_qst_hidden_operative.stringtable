@@ -46,7 +46,7 @@
     </Entry>
     <Entry>
       <ID>10001</ID>
-      <DefaultText>Description of Brackenbury Sanitarium's location and previous quest information.</DefaultText>
+      <DefaultText>Description of Brackenbury Sanitarium’s location and previous quest information.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -76,7 +76,7 @@
     </Entry>
     <Entry>
       <ID>20000</ID>
-      <DefaultText>Reactivity of patient information, this addendum should trigger once the player knows Uscgrim's significance narrativley and point the player towards The Hall.</DefaultText>
+      <DefaultText>Reactivity of patient information, this addendum should trigger once the player knows Uscgrim’s significance narrativley and point the player towards The Hall.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
