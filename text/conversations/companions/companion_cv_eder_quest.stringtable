@@ -590,9 +590,9 @@ Du treibst von Stimme zu Stimme, von Gedanke zu Gedanke. Edérs Seele ist dir da
     </Entry>
     <Entry>
       <ID>113</ID>
-      <DefaultText>"Ich ... wünschte, ich hätte mehr hilfreicher sein können. Mein Beileid. Gegenstände enttäuschen und ebenso oft, wie sie uns zeigen, was wir wissen wollen."
+      <DefaultText>"Ich ... wünschte, ich hätte hilfreicher sein können. Mein Beileid. Gegenstände enttäuschen uns ebenso oft, wie sie uns zeigen, was wir wissen wollen."
 
-"Meine Akten sind voller Fälle, die im Sande verlaufen sind. An schlechten Tagen denke ich oft an Aufbruch, und daran, meine Fähigkeiten auf etwas weniger ... Verwirrendes anzuwenden."</DefaultText>
+"Meine Akten sind voller Fälle, die im Sande verlaufen sind. An schlechten Tagen war ich oft versucht aufzugeben, meine Fähigkeiten auf etwas weniger ... Verwirrendes anzuwenden."</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -609,7 +609,7 @@ Ich bereue es, dass meine Antworten seinen Schmerz nur noch vertieft haben."</De
     </Entry>
     <Entry>
       <ID>116</ID>
-      <DefaultText>"Ich ... wünschte, ich hätte hilfreicher sein können. Mein Beileid. Gegenstände enttäuschen uns ebenso oft, wie sie uns zeigen, was wir wissen wollen. 
+      <DefaultText>"Ich ... wünschte, ich hätte hilfreicher sein können. Mein Beileid. Gegenstände enttäuschen uns ebenso oft, wie sie uns zeigen, was wir wissen wollen."
 
 "Meine Akten sind voller Fälle, die im Sande verlaufen sind. An schlechten Tagen war ich oft versucht aufzugeben, meine Fähigkeiten auf etwas weniger ... Verwirrendes anzuwenden."</DefaultText>
       <FemaleText />

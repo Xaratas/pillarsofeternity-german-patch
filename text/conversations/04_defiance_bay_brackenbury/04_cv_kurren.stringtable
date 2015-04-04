@@ -22,7 +22,7 @@
     <Entry>
       <ID>4</ID>
       <DefaultText>"Es ist immer eine Freude, einen so klugen Freund zu sehen." Er beginnt wieder, die Schriftrollen auf dem Tisch durchzugehen. "Irgendwo hier muss es doch sein ... "</DefaultText>
-      <FemaleText>Es ist immer eine Freude, eine so kluge Freundin zu sehen. Er beginnt wieder, die Schriftrollen auf dem Tisch durchzugehen. "Irgendwo hier muss es doch sein ... "</FemaleText>
+      <FemaleText>"Es ist immer eine Freude, eine so kluge Freundin zu sehen." Er beginnt wieder, die Schriftrollen auf dem Tisch durchzugehen. "Irgendwo hier muss es doch sein ... "</FemaleText>
     </Entry>
     <Entry>
       <ID>5</ID>
@@ -576,7 +576,7 @@ Er nimmt dich bei der Hand, die stählerne Sonne in der anderen haltend. "Befrei
       <ID>137</ID>
       <DefaultText>Kurrens Ohren klappen in Richtung des Eingangs, als er hört, wie du dich näherst. Er dreht sich ruckartig um.
 
-Als er dich erkennt, seufzt er und fasst sich ans Herz. "Ich dachte, du wärest ein Plünderer.
+Als er dich erkennt, seufzt er und fasst sich ans Herz. "Ich dachte, du wärest ein Plünderer."
 
 "Wenn du kommst, um die Hilfe der Dunrydstraße zu erbitten, bist du zu spät. Ich bin alles, was noch übrig ist."</DefaultText>
       <FemaleText />
@@ -595,7 +595,7 @@ Als er dich erkennt, seufzt er und fasst sich ans Herz. "Ich dachte, du wärest 
     </Entry>
     <Entry>
       <ID>140</ID>
-      <DefaultText>"Ich will noch ein paar Sachen zusammensuchen - Akten, vor allem. Einige Fälle, die ich nicht aufgeben will. Auch, wenn ich jetzt alleine bin.
+      <DefaultText>"Ich will noch ein paar Sachen zusammensuchen - Akten, vor allem. Einige Fälle, die ich nicht aufgeben will. Auch, wenn ich jetzt alleine bin."
 
 "Ich werde bald fort sein. Vermutlich werden sie mich jagen. Aber es ist ... schwer, all das zurückzulassen. Lady Webb, sie ... hat hart dafür gearbeitet."</DefaultText>
       <FemaleText />
