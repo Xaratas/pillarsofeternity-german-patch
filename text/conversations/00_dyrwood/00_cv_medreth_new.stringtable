@@ -107,7 +107,7 @@ Er beugt sich etwas näher heran. „Ihr Name ist Nyfre. Sie ist Orlanerin. Wir 
     </Entry>
     <Entry>
       <ID>20</ID>
-      <DefaultText>„Ich weiß nicht … “</DefaultText>
+      <DefaultText>„Ich weiß nicht …“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -127,7 +127,7 @@ Er beugt sich etwas näher heran. „Ihr Name ist Nyfre. Sie ist Orlanerin. Wir 
     </Entry>
     <Entry>
       <ID>25</ID>
-      <DefaultText>„Ich glaube, ich habe die Frau, von der du sprichst, schon getroffen … “</DefaultText>
+      <DefaultText>„Ich glaube, ich habe die Frau, von der du sprichst, schon getroffen …“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -142,7 +142,7 @@ Er beugt sich etwas näher heran. „Ihr Name ist Nyfre. Sie ist Orlanerin. Wir 
     </Entry>
     <Entry>
       <ID>28</ID>
-      <DefaultText>„Aber selbstverständlich!“ Er schaut zu den vermummten Gestalten in seiner Nähe. „Sie würde dir doch nicht gestehen, dass sie eine Kindermöderin ist, oder? Geh einfach … “ Er winkt ausladend in Richtung der Ortschaft. „ … zurück, finde sie und bring sie dazu, herauszukommen.“</DefaultText>
+      <DefaultText>„Aber selbstverständlich!“ Er schaut zu den vermummten Gestalten in seiner Nähe. „Sie würde dir doch nicht gestehen, dass sie eine Kindermöderin ist, oder? Geh einfach …“ Er winkt ausladend in Richtung der Ortschaft. „… zurück, finde sie und bring sie dazu, herauszukommen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -241,7 +241,7 @@ Er klopft dir auf den Rücken. „Aber den Teil kannst du mir überlassen.“</D
     </Entry>
     <Entry>
       <ID>49</ID>
-      <DefaultText>„Nein, ich bin hinter der Flüchtigen her … “ Er beobachtet deinen Gesichtsausdruck.</DefaultText>
+      <DefaultText>„Nein, ich bin hinter der Flüchtigen her …“ Er beobachtet deinen Gesichtsausdruck.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -448,7 +448,7 @@ Er beugt sich etwas näher heran. „Ihr Name ist Nyfre. Sie ist Orlanerin. Wir 
     </Entry>
     <Entry>
       <ID>88</ID>
-      <DefaultText>„Aber selbstverständlich!“ Er schaut zu den vermummten Gestalten in seiner Nähe. „Sie würde dir doch nicht gestehen, dass sie eine Kindermörderin ist, oder? Es ist nur …“ Er winkt ausladend in Richtung der Ortschaft. „ … Du willst doch ein solches Monster nicht ungeschoren davonkommen lassen? Du willst Gerechtigkeit, das sehe ich in deinen Augen.“
+      <DefaultText>„Aber selbstverständlich!“ Er schaut zu den vermummten Gestalten in seiner Nähe. „Sie würde dir doch nicht gestehen, dass sie eine Kindermörderin ist, oder? Es ist nur …“ Er winkt ausladend in Richtung der Ortschaft. „… Du willst doch ein solches Monster nicht ungeschoren davonkommen lassen? Du willst Gerechtigkeit, das sehe ich in deinen Augen.“
 
 „Also geh zurück und locke sie heraus.“</DefaultText>
       <FemaleText />

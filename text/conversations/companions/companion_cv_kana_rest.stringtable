@@ -362,7 +362,7 @@
     </Entry>
     <Entry>
       <ID>100</ID>
-      <DefaultText>„Man kann nicht abstreiten, dass die Toten manchmal hervorragende Informationsquellen abgeben … “ Kana hustet. „Tut mir leid. Wie dem auch sei, wir werden bestimmt eine Lösung für dies finden. Bis wir das geschafft haben, kannst du auf meine Hilfe zählen.“</DefaultText>
+      <DefaultText>„Man kann nicht abstreiten, dass die Toten manchmal hervorragende Informationsquellen abgeben …“ Kana hustet. „Tut mir leid. Wie dem auch sei, wir werden bestimmt eine Lösung für dies finden. Bis wir das geschafft haben, kannst du auf meine Hilfe zählen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -509,7 +509,7 @@
     </Entry>
     <Entry>
       <ID>129</ID>
-      <DefaultText>„Lady Webb sagte, dass er ein langlebiger Mann war … “</DefaultText>
+      <DefaultText>„Lady Webb sagte, dass er ein langlebiger Mann war …“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

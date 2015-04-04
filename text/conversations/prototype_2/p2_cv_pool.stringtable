@@ -341,7 +341,7 @@ Du spürst eine andere Präsenz im Blutbecken, verwirrt und wütend. Die anderen
       <ID>132</ID>
       <DefaultText>Hiravias wird blass, seine Augen weiten sich. „Was geschieht mit ihm? So tu doch jemand etwas! Er stirbt, wir müssen ihm helf-“
 
-Er bedeckt seine Augen mit seinen Händen, um den blutigen Anblick nicht zu ertragen. „Ich glaube, ich muss mich übergeben … “</DefaultText>
+Er bedeckt seine Augen mit seinen Händen, um den blutigen Anblick nicht zu ertragen. „Ich glaube, ich muss mich übergeben …“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -432,7 +432,7 @@ Er fällt würgend und hustend auf die Knie. Aus seinem geöffneten Mund sprudel
     </Entry>
     <Entry>
       <ID>149</ID>
-      <DefaultText>Er macht einen Schritt zurück. „Ist er tot?“ Er dreht langsam den Kopf, um dich anzusehen. „Du weißt wohl nicht … “ Er schluckt. „Unwichtig. Wir sollten gehen.“</DefaultText>
+      <DefaultText>Er macht einen Schritt zurück. „Ist er tot?“ Er dreht langsam den Kopf, um dich anzusehen. „Du weißt wohl nicht …“ Er schluckt. „Unwichtig. Wir sollten gehen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -471,7 +471,7 @@ Als die Blasen im Blutbecken verschwinden und sich die Wogen glätten, spürst d
       <ID>158</ID>
       <DefaultText>Hiravias wird blass, seine Augen weiten sich. „Was geschieht mit ihr? So tu doch jemand etwas! Jemand muss ihr helf-“
 
-Er bedeckt seine Augen mit seinen Händen, um den blutigen Anblick nicht zu ertragen. „Ich glaube, ich muss mich übergeben … “</DefaultText>
+Er bedeckt seine Augen mit seinen Händen, um den blutigen Anblick nicht zu ertragen. „Ich glaube, ich muss mich übergeben …“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -515,7 +515,7 @@ Du spürst eine andere Präsenz im Blutbecken, verwirrt und wütend. Die anderen
     </Entry>
     <Entry>
       <ID>166</ID>
-      <DefaultText>Er geht einen Schritt zurück. „Ist sie tot?“ Er dreht langsam den Kopf, um dich anzusehen. „Du weißt wohl nicht … “ Er schluckt. „Egal. Wir sollten gehen.“</DefaultText>
+      <DefaultText>Er geht einen Schritt zurück. „Ist sie tot?“ Er dreht langsam den Kopf, um dich anzusehen. „Du weißt wohl nicht …“ Er schluckt. „Egal. Wir sollten gehen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -573,7 +573,7 @@ Sie fällt würgend und hustend auf die Knie. Aus ihrem geöffneten Mund sprudel
     </Entry>
     <Entry>
       <ID>177</ID>
-      <DefaultText>„Hast du etwas gehört? Ich glaube, ich habe etwas gehört … “</DefaultText>
+      <DefaultText>„Hast du etwas gehört? Ich glaube, ich habe etwas gehört …“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

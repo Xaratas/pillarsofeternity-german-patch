@@ -276,12 +276,12 @@
     </Entry>
     <Entry>
       <ID>90</ID>
-      <DefaultText>Auf dieser Totenbahre hat jemand polierte Schädel behutsam aufgestapelt. Eine Inschrift besagt: „Hier ruhen die Getreuen Beraths. Geführt an das Ende einen Weges … “</DefaultText>
+      <DefaultText>Auf dieser Totenbahre hat jemand polierte Schädel behutsam aufgestapelt. Eine Inschrift besagt: „Hier ruhen die Getreuen Beraths. Geführt an das Ende einen Weges …“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>91</ID>
-      <DefaultText>Die Kerze zwischen den Schädeln verströmt einen angenehmen, moschusartigen Duft. Die Inschrift dieser Totenbahre besagt: „ … Aufgebrochen auf einer neuen Straße. So kehren die Getreuen Beraths wieder.“</DefaultText>
+      <DefaultText>Die Kerze zwischen den Schädeln verströmt einen angenehmen, moschusartigen Duft. Die Inschrift dieser Totenbahre besagt: „… Aufgebrochen auf einer neuen Straße. So kehren die Getreuen Beraths wieder.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -406,7 +406,7 @@
     </Entry>
     <Entry>
       <ID>124</ID>
-      <DefaultText>„ … unerwartete Resultate. Der hündische Wirt war lustlos und reagierte nicht, aber man stellte fest, das dies lediglich an der implantierten Katzenseele lag. Zwirn resultierte in kräftiger Stimulation.“</DefaultText>
+      <DefaultText>„… unerwartete Resultate. Der hündische Wirt war lustlos und reagierte nicht, aber man stellte fest, das dies lediglich an der implantierten Katzenseele lag. Zwirn resultierte in kräftiger Stimulation.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -746,7 +746,7 @@
     </Entry>
     <Entry>
       <ID>215</ID>
-      <DefaultText>Dieses Stück Pergament ist abgenutzt und zerlumpt, die Tinte ist verblasst. „In diesen Zeiten der Not … . muss man genau so viel Glauben an uns selbst haben … “</DefaultText>
+      <DefaultText>Dieses Stück Pergament ist abgenutzt und zerlumpt, die Tinte ist verblasst. „In diesen Zeiten der Not … . muss man genau so viel Glauben an uns selbst haben …“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2153,7 +2153,7 @@ Dämmerung nur Dunkelheit bringt, aber niemals eine Karte in den Sternen am Himm
     </Entry>
     <Entry>
       <ID>518</ID>
-      <DefaultText>„Eine mit Gewalt genommene Essenz mag einen erhalten, freiwillig überlassene Essenzen aber stärken viele … “</DefaultText>
+      <DefaultText>„Eine mit Gewalt genommene Essenz mag einen erhalten, freiwillig überlassene Essenzen aber stärken viele …“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

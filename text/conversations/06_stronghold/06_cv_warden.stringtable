@@ -80,7 +80,7 @@
     </Entry>
     <Entry>
       <ID>15</ID>
-      <DefaultText>„Ich habe ein paar neue Angebote. Mal sehen, was haben wir hier … “</DefaultText>
+      <DefaultText>„Ich habe ein paar neue Angebote. Mal sehen, was haben wir hier …“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -349,7 +349,7 @@
     </Entry>
     <Entry>
       <ID>68</ID>
-      <DefaultText>„In Ordnung, mal sehen … “</DefaultText>
+      <DefaultText>„In Ordnung, mal sehen …“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

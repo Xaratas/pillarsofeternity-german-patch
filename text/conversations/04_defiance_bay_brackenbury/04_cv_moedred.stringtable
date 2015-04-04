@@ -146,7 +146,7 @@
     </Entry>
     <Entry>
       <ID>38</ID>
-      <DefaultText>Er seufzt und fährt sich mit der Hand durch die Haare. „ … Nun gut. Ja, ich habe ihn getötet. Ich habe diese Bestie getötet, weil sonst niemand den Mumm dazu hatte.“</DefaultText>
+      <DefaultText>Er seufzt und fährt sich mit der Hand durch die Haare. „… Nun gut. Ja, ich habe ihn getötet. Ich habe diese Bestie getötet, weil sonst niemand den Mumm dazu hatte.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -163,7 +163,7 @@ Er beruhigt sich und mustert dich. „Wie dem auch sei, nun kennst du die ganze 
     </Entry>
     <Entry>
       <ID>41</ID>
-      <DefaultText>„Ich habe genug von diesen haltlosen … “ Moedred hält inne. „Augenblick. Du hast mit Helig gesprochen?“</DefaultText>
+      <DefaultText>„Ich habe genug von diesen haltlosen …“ Moedred hält inne. „Augenblick. Du hast mit Helig gesprochen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -173,7 +173,7 @@ Er beruhigt sich und mustert dich. „Wie dem auch sei, nun kennst du die ganze 
     </Entry>
     <Entry>
       <ID>43</ID>
-      <DefaultText>„Wegen Helig … “</DefaultText>
+      <DefaultText>„Wegen Helig …“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -233,7 +233,7 @@ Er beruhigt sich und mustert dich. „Wie dem auch sei, nun kennst du die ganze 
     </Entry>
     <Entry>
       <ID>57</ID>
-      <DefaultText>Moedred runzelt die Stirn. „Das ist nicht … “ Er stockt. „Nein, vielleicht ist es doch möglich. Dieser verrückte Hund beherrschte alle möglichen dunklen Künste.“</DefaultText>
+      <DefaultText>Moedred runzelt die Stirn. „Das ist nicht …“ Er stockt. „Nein, vielleicht ist es doch möglich. Dieser verrückte Hund beherrschte alle möglichen dunklen Künste.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -243,7 +243,7 @@ Er beruhigt sich und mustert dich. „Wie dem auch sei, nun kennst du die ganze 
     </Entry>
     <Entry>
       <ID>59</ID>
-      <DefaultText>„Aber das ist … “ Moedred runzelt die Stirn. „Wenn jemand das bewerkstelligen könnte, dann wohl er.“ Er seufzt.</DefaultText>
+      <DefaultText>„Aber das ist …“ Moedred runzelt die Stirn. „Wenn jemand das bewerkstelligen könnte, dann wohl er.“ Er seufzt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -423,7 +423,7 @@ Er schüttelt seinen Kopf. „Ich lasse nicht zu, dass das Wissen, das wir uns s
     </Entry>
     <Entry>
       <ID>112</ID>
-      <DefaultText>„Es fing mit einer heftigen Dosis Svef an … “</DefaultText>
+      <DefaultText>„Es fing mit einer heftigen Dosis Svef an …“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -543,7 +543,7 @@ Sie schließt die Augen und scheint einen Augenblick vor dir zurückzuweichen. �
     </Entry>
     <Entry>
       <ID>137</ID>
-      <DefaultText>Er seufzt und fährt sich mit der Hand durch die Haare. „ … Nun gut. Ja, ich habe ihn getötet. Ich habe diese Bestie getötet, weil sonst niemand den Mumm dazu hatte.“ Er blickt dich genauer an. „Aber schätzt nicht dein Orden solche Gnadenlosigkeit?“</DefaultText>
+      <DefaultText>Er seufzt und fährt sich mit der Hand durch die Haare. „… Nun gut. Ja, ich habe ihn getötet. Ich habe diese Bestie getötet, weil sonst niemand den Mumm dazu hatte.“ Er blickt dich genauer an. „Aber schätzt nicht dein Orden solche Gnadenlosigkeit?“</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

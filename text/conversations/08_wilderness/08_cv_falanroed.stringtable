@@ -126,13 +126,13 @@
     </Entry>
     <Entry>
       <ID>26</ID>
-      <DefaultText>Sie stößt ein gepresstes Geräusch aus, ein knurrendes Husten, und versucht es dann mit gerunzelter Stirn erneut: „Ja … “</DefaultText>
+      <DefaultText>Sie stößt ein gepresstes Geräusch aus, ein knurrendes Husten, und versucht es dann mit gerunzelter Stirn erneut: „Ja …“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>27</ID>
-      <DefaultText>„Ah, Wächter. Du kennst den Unterschied nicht. Ich habe all diese Dinge schon einmal gespürt, allerdings wie durch einen Nebel … “</DefaultText>
-      <FemaleText>„Ah, Wächterin. Du kennst den Unterschied nicht. Ich habe all diese Dinge schon einmal gespürt, allerdings wie durch einen Nebel … “</FemaleText>
+      <DefaultText>„Ah, Wächter. Du kennst den Unterschied nicht. Ich habe all diese Dinge schon einmal gespürt, allerdings wie durch einen Nebel …“</DefaultText>
+      <FemaleText>„Ah, Wächterin. Du kennst den Unterschied nicht. Ich habe all diese Dinge schon einmal gespürt, allerdings wie durch einen Nebel …“</FemaleText>
     </Entry>
     <Entry>
       <ID>28</ID>
@@ -376,7 +376,7 @@
     </Entry>
     <Entry>
       <ID>81</ID>
-      <DefaultText>„Natürlich. In Ordnung, mal sehen … “</DefaultText>
+      <DefaultText>„Natürlich. In Ordnung, mal sehen …“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

@@ -14,7 +14,7 @@ Vom Hals abwärts aber ist die Gestalt allem Anschein nach ein menschlicher Mann
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>Er lacht leise. „ … Genießt du die frische Luft? Wir“, er deutet auf die Männer und Frauen hinter sich, „tun das Gleiche.“</DefaultText>
+      <DefaultText>Er lacht leise. „… Genießt du die frische Luft? Wir“, er deutet auf die Männer und Frauen hinter sich, „tun das Gleiche.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -218,7 +218,7 @@ Gramrfel lacht. „All diese … Experimente der Beseeler … Ich habe meine Ant
     </Entry>
     <Entry>
       <ID>43</ID>
-      <DefaultText>Gramrfel sieht teilnahmslos zu, wie das Blut in den Schmutz sickert. „ … Ich bekomme wohl eher keine zweite Chance?“</DefaultText>
+      <DefaultText>Gramrfel sieht teilnahmslos zu, wie das Blut in den Schmutz sickert. „… Ich bekomme wohl eher keine zweite Chance?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -315,7 +315,7 @@ Gramrfel lacht. „All diese … Experimente der Beseeler … Ich habe meine Ant
     </Entry>
     <Entry>
       <ID>62</ID>
-      <DefaultText>„Vielleicht.“ In der Stimme des Mannes schwingt leichte Belustigung mit. „ … Dennoch eine faszinierende Kraft. Welche Fragen ich stellen würde, wenn ich die Möglichkeit hätte … “
+      <DefaultText>„Vielleicht.“ In der Stimme des Mannes schwingt leichte Belustigung mit. „… Dennoch eine faszinierende Kraft. Welche Fragen ich stellen würde, wenn ich die Möglichkeit hätte …“
 
 Er deutet auf seine Gefährten. „Wir sind gekommen, unsere fröhliche Gesellschaft, um einen Bericht über Waidwens Vermächtnis zu verfassen. Wirtan war äußerst hilfreich. Ein Einheimischer und noch dazu eine ehemalige Wache. Diese Straßen sind nicht sehr sicher, weißt du.“</DefaultText>
       <FemaleText />

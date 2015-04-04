@@ -79,7 +79,7 @@ Er schätzt dich über halbmondförmige Augengläser ab und kratzt sich am Kinn.
     </Entry>
     <Entry>
       <ID>21</ID>
-      <DefaultText>„Das ist eine ziemlich persönliche Frage … “</DefaultText>
+      <DefaultText>„Das ist eine ziemlich persönliche Frage …“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -113,7 +113,7 @@ Er schätzt dich über halbmondförmige Augengläser ab und kratzt sich am Kinn.
     </Entry>
     <Entry>
       <ID>27</ID>
-      <DefaultText>Urgeat gafft dich an. „Du! Du bist derjenige, der Fürst Raedric auf Geheiß dieses schwachsinnigen Verräters ermordet hat.!“ Er zieht die Nase hoch. „Sicherlich verstehst du, dass ich deine Anfrage bezüglich Haus und Land jetzt nicht mehr bearbeiten kann … “</DefaultText>
+      <DefaultText>Urgeat gafft dich an. „Du! Du bist derjenige, der Fürst Raedric auf Geheiß dieses schwachsinnigen Verräters ermordet hat.!“ Er zieht die Nase hoch. „Sicherlich verstehst du, dass ich deine Anfrage bezüglich Haus und Land jetzt nicht mehr bearbeiten kann …“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -150,7 +150,7 @@ Er schätzt dich über halbmondförmige Augengläser ab und kratzt sich am Kinn.
     </Entry>
     <Entry>
       <ID>34</ID>
-      <DefaultText>„Du sagtest vorher etwas von ‚Hohlgeburten‘ und ‚Waidwens Vermächtnis‘ … “</DefaultText>
+      <DefaultText>„Du sagtest vorher etwas von ‚Hohlgeburten‘ und ‚Waidwens Vermächtnis‘ …“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -218,7 +218,7 @@ Er hebt seine leeren Händen. „In Wirklichkeit weiß es niemand sicher. Da sie
     </Entry>
     <Entry>
       <ID>46</ID>
-      <DefaultText>„Dieser Baum dort drüben … “</DefaultText>
+      <DefaultText>„Dieser Baum dort drüben …“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -493,12 +493,12 @@ Eine merkwürdige Zuckung zieht sich über sein Gesicht, und seine Mundwinkel ve
     </Entry>
     <Entry>
       <ID>103</ID>
-      <DefaultText>„Ich könnte mir das Angebot deines Fürsten nochmal durch den Kopf gehen lassen … “</DefaultText>
+      <DefaultText>„Ich könnte mir das Angebot deines Fürsten nochmal durch den Kopf gehen lassen …“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>104</ID>
-      <DefaultText>„Unsinn. Goldtal ist ein perfektes Dorf für jene, denen die Dekrete des Fürsten etwas bedeuten. Außerdem … “ Er mustert dich von oben bis unten. „Heutzutage wirst du im Dyrwald nirgendwo ein besseres Angebot finden. Und du siehst definitiv so aus, als würde dir ein Neuanfang gut tun.“
+      <DefaultText>„Unsinn. Goldtal ist ein perfektes Dorf für jene, denen die Dekrete des Fürsten etwas bedeuten. Außerdem …“ Er mustert dich von oben bis unten. „Heutzutage wirst du im Dyrwald nirgendwo ein besseres Angebot finden. Und du siehst definitiv so aus, als würde dir ein Neuanfang gut tun.“
 
 Während er sich im Dorf umsieht, ist sein Gesicht wie eine Maske nüchterner Zufriedenheit.</DefaultText>
       <FemaleText />

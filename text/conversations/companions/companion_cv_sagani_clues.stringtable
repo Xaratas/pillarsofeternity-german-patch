@@ -423,7 +423,7 @@ Du spürst eine Gegenwart in dem Biest, etwas Uraltes und Vertrautes. Bevor du a
     </Entry>
     <Entry>
       <ID>83</ID>
-      <DefaultText>Pallegina schnappt nach Luft. „Ac! Das muss … “</DefaultText>
+      <DefaultText>Pallegina schnappt nach Luft. „Ac! Das muss …“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -443,7 +443,7 @@ Du spürst eine Gegenwart in dem Biest, etwas Uraltes und Vertrautes. Bevor du a
     </Entry>
     <Entry>
       <ID>87</ID>
-      <DefaultText>Hiravias schnuppert in die Luft, und ein fassungsloser Ausdruck legt sich auf sein Gesicht. „Dieser weiße Hirsch! In dieser armen Kreatur regt sich die Seele eines Mannes … “</DefaultText>
+      <DefaultText>Hiravias schnuppert in die Luft, und ein fassungsloser Ausdruck legt sich auf sein Gesicht. „Dieser weiße Hirsch! In dieser armen Kreatur regt sich die Seele eines Mannes …“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -676,7 +676,7 @@ Sie kniet sich neben den gefallenen Hirsch hin, legt ihm ihre Hand auf den Kopf,
     </Entry>
     <Entry>
       <ID>130</ID>
-      <DefaultText>Sagani nickt langsam. „Dann werde ich dir folgen.“ Sie schultert ihren Bogen. „Ich verstehe dieses spirituelle Zeug nicht so gut wie du, aber ich nehme nicht an, dass du jetzt eine Ahnung hast, wer Persoq ist … “</DefaultText>
+      <DefaultText>Sagani nickt langsam. „Dann werde ich dir folgen.“ Sie schultert ihren Bogen. „Ich verstehe dieses spirituelle Zeug nicht so gut wie du, aber ich nehme nicht an, dass du jetzt eine Ahnung hast, wer Persoq ist …“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -686,7 +686,7 @@ Sie kniet sich neben den gefallenen Hirsch hin, legt ihm ihre Hand auf den Kopf,
     </Entry>
     <Entry>
       <ID>132</ID>
-      <DefaultText>„Du hast tatsächlich gesagt, dass du nach all dem hier auf ein warmes Mahl gehofft hast … “</DefaultText>
+      <DefaultText>„Du hast tatsächlich gesagt, dass du nach all dem hier auf ein warmes Mahl gehofft hast …“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -810,7 +810,7 @@ Aber was spielt für jemand in Persoqs Lage überhaupt eine Rolle? Für das Dorf
       <ID>162</ID>
       <DefaultText>Hiravias beginnt zu kichern, legt dann aber eine Hand auf seinen Mund und sein gutes Auge. Nachdem er sein Lachen unterdrückt hat, schaut er zu dir auf und schüttelt den Kopf.
 
-„Und ich dachte, dass ICH unangemessen wäre … “</DefaultText>
+„Und ich dachte, dass ICH unangemessen wäre …“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

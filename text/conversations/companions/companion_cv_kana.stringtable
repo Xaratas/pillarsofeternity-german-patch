@@ -77,7 +77,7 @@
     </Entry>
     <Entry>
       <ID>15</ID>
-      <DefaultText>„Der wirklich interessante Teil aber ist da drin.“ Er deutet mit dem Stück Holzkohle auf die Tore. „ … und viel Glück beim Erreichen der Burg selbst hatte ich auch nicht. Ich hoffe, den Herren dieses Orts zu finden - einen Mann namens Maerwald - aber entweder liegt ihm seine Privatsphäre sehr am Herzen oder er wurde von seinen Hausgästen verschlungen.“</DefaultText>
+      <DefaultText>„Der wirklich interessante Teil aber ist da drin.“ Er deutet mit dem Stück Holzkohle auf die Tore. „… und viel Glück beim Erreichen der Burg selbst hatte ich auch nicht. Ich hoffe, den Herren dieses Orts zu finden - einen Mann namens Maerwald - aber entweder liegt ihm seine Privatsphäre sehr am Herzen oder er wurde von seinen Hausgästen verschlungen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -240,7 +240,7 @@
     </Entry>
     <Entry>
       <ID>47</ID>
-      <DefaultText>„Ich sage, ich ‚glaube‘ es, aber das hat mir einer meiner Möchtegern-Mörder erzählt … “ Er schnaubt. 
+      <DefaultText>„Ich sage, ich ‚glaube‘ es, aber das hat mir einer meiner Möchtegern-Mörder erzählt …“ Er schnaubt. 
 
 „Ich beachte sie kaum. Humorlose Kerle in langen Roben. Aber weißt du, aus diesem Grund habe ich das Schwert mitgebracht, und es ist nur gerecht, dass du es auch erfährst.“</DefaultText>
       <FemaleText />
@@ -302,7 +302,7 @@
     </Entry>
     <Entry>
       <ID>60</ID>
-      <DefaultText>„Ich hoffe, den Herren dieses Orts zu finden - einen Mann namens Maerwald, aber man sagte mir, dass ich zu spät gekommen sei … “ 
+      <DefaultText>„Ich hoffe, den Herren dieses Orts zu finden - einen Mann namens Maerwald, aber man sagte mir, dass ich zu spät gekommen sei …“ 
 
 „Ich würde gerne mit seinem Nachfolger sprechen. Bist du das?“</DefaultText>
       <FemaleText />

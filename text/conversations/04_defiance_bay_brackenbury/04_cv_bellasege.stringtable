@@ -74,7 +74,7 @@ Sie läuft fast gegen dich. „Eccosi! Nun suche ich so angestrengt in meiner Fo
     </Entry>
     <Entry>
       <ID>13</ID>
-      <DefaultText>Sie reibt die Hände zusammen und kommt zur Sache. „Also. Du musst dich hier hinsetzen … “ Sie ergreift Aloth bei den Schultern und führt ihn zur Couch. „Und versuch dich zu entspannen. Aber versuch es nicht zu sehr. Sonst bist du nicht entspannt.“</DefaultText>
+      <DefaultText>Sie reibt die Hände zusammen und kommt zur Sache. „Also. Du musst dich hier hinsetzen …“ Sie ergreift Aloth bei den Schultern und führt ihn zur Couch. „Und versuch dich zu entspannen. Aber versuch es nicht zu sehr. Sonst bist du nicht entspannt.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -511,7 +511,7 @@ Er hält einen Finger an seine Lippen, seine Augen weit und flehend. „Bitte. I
     </Entry>
     <Entry>
       <ID>98</ID>
-      <DefaultText>„Sientere, aber ich bin beschäftigt. Ich scheine meine Notizen verlegt zu haben … “</DefaultText>
+      <DefaultText>„Sientere, aber ich bin beschäftigt. Ich scheine meine Notizen verlegt zu haben …“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -538,7 +538,7 @@ Er hält einen Finger an seine Lippen, seine Augen weit und flehend. „Bitte. I
     </Entry>
     <Entry>
       <ID>103</ID>
-      <DefaultText>Ihre Augen leuchten auf. „Das könnte einen Versuch wert sein … “</DefaultText>
+      <DefaultText>Ihre Augen leuchten auf. „Das könnte einen Versuch wert sein …“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -635,7 +635,7 @@ Sie seufzt. „Ich fürchte, ich werde mit leeren Händen nach Revua zurückkehr
     </Entry>
     <Entry>
       <ID>126</ID>
-      <DefaultText>Saganis Augen sind groß und unschuldig. „Eines hat sie wohl doch richtig gemacht … “</DefaultText>
+      <DefaultText>Saganis Augen sind groß und unschuldig. „Eines hat sie wohl doch richtig gemacht …“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

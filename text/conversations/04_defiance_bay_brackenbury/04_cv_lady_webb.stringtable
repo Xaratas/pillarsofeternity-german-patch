@@ -428,7 +428,7 @@ Ihre Mundwinkel zucken. „Er muss rasend sein vor Zorn.“</DefaultText>
       <ID>102</ID>
       <DefaultText>„Das würden wir nur als letzten Ausweg tun. Wenn du mit einer der drei eingeladenen Gruppen erscheinst, hast du einen gewissen Einfluss. Spazierst du alleine als Vertreter der Dunrydstraße hinein, würden dir alle anderen augenblicklich misstrauen.“
 
-„Unsere Organisation hat aus unerklärlichen Gründen den Ruf, neugierig und manipulativ zu sein … “ Sie blickt zur Seite.</DefaultText>
+„Unsere Organisation hat aus unerklärlichen Gründen den Ruf, neugierig und manipulativ zu sein …“ Sie blickt zur Seite.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -797,7 +797,7 @@ Du blickst Thaos mit weit aufgerissenen Augen an, als würdest du das erste Mal 
     </Entry>
     <Entry>
       <ID>171</ID>
-      <DefaultText>Aloth runzelt die Stirn und kratzt sich im Genick. „Dann stimmt es also. Ihren Spionen entgeht nicht viel … “</DefaultText>
+      <DefaultText>Aloth runzelt die Stirn und kratzt sich im Genick. „Dann stimmt es also. Ihren Spionen entgeht nicht viel …“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

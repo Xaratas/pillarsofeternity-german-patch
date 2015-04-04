@@ -464,7 +464,7 @@ Sie wendet sich zur Bar. „Ich muss zurück zur Arbeit. Brauchst du sonst noch 
     </Entry>
     <Entry>
       <ID>110</ID>
-      <DefaultText>Sagani hebt eine Augenbraue. „Hat nie jemand mit dir ‚darüber‘ geredet? Bei unseren Kindern ist nämlich Kallu dafür zuständig. Aber wenn dir das noch nie jemand erklärt hat … “</DefaultText>
+      <DefaultText>Sagani hebt eine Augenbraue. „Hat nie jemand mit dir ‚darüber‘ geredet? Bei unseren Kindern ist nämlich Kallu dafür zuständig. Aber wenn dir das noch nie jemand erklärt hat …“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -491,7 +491,7 @@ Er zuckt mit den Schultern und sucht in seinen Kleidern weiter nach Geld. „Sel
     </Entry>
     <Entry>
       <ID>115</ID>
-      <DefaultText>„Naja, warum sollten wir nichts trinken. Hier geht man bestimmt nicht heraus, ohne das eine oder andere schmutzige Geheimnis belauscht zu haben. Und sich ein paar Krankheiten eingefangen zu haben … “</DefaultText>
+      <DefaultText>„Naja, warum sollten wir nichts trinken. Hier geht man bestimmt nicht heraus, ohne das eine oder andere schmutzige Geheimnis belauscht zu haben. Und sich ein paar Krankheiten eingefangen zu haben …“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

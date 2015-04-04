@@ -61,7 +61,7 @@
     </Entry>
     <Entry>
       <ID>12</ID>
-      <DefaultText>„Ich weiß aus verlässlicher Quelle, dass dieser Orlaner … “</DefaultText>
+      <DefaultText>„Ich weiß aus verlässlicher Quelle, dass dieser Orlaner …“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -86,7 +86,7 @@
     </Entry>
     <Entry>
       <ID>17</ID>
-      <DefaultText>„Ja, aber erst noch was zum trinken … “</DefaultText>
+      <DefaultText>„Ja, aber erst noch was zum trinken …“</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

@@ -2523,7 +2523,7 @@ Der Splitter leuchtet in kaltem, blauen Licht. Seit du ihn bekommen hast, ist er
     </Entry>
     <Entry>
       <ID>516</ID>
-      <DefaultText>„Wie kann es sein, dass einen eine derart große Reise wie die meine hierher führt? Die Bevölkerung des Dyrwalds nennt diese erbärmliche Lagune sehenswert, aber mir ist hier nur Unglück widerfahren. Die Höhlen am Wasser wollte ich erkunden, aber ich fand nur heraus, dass dort Sporlinge leben. Den gerühmten Kompass ging ich mir ansehen, stolperte über ein Stück Treibholz und verlor den Großteil meiner Briefe. Letztlich machte ich mich auf, die Drachenschädel in der Nähe zu inspizieren, und was passierte? Ein paar kleine närrische Xaurips bedrohten mich. Sobald ich wieder zu Atem gekommen bin, werde ich nach Goldtal zurückkehren. Zumindest scheinen mir die Xaurips nicht gefolgt zu s … “</DefaultText>
+      <DefaultText>„Wie kann es sein, dass einen eine derart große Reise wie die meine hierher führt? Die Bevölkerung des Dyrwalds nennt diese erbärmliche Lagune sehenswert, aber mir ist hier nur Unglück widerfahren. Die Höhlen am Wasser wollte ich erkunden, aber ich fand nur heraus, dass dort Sporlinge leben. Den gerühmten Kompass ging ich mir ansehen, stolperte über ein Stück Treibholz und verlor den Großteil meiner Briefe. Letztlich machte ich mich auf, die Drachenschädel in der Nähe zu inspizieren, und was passierte? Ein paar kleine närrische Xaurips bedrohten mich. Sobald ich wieder zu Atem gekommen bin, werde ich nach Goldtal zurückkehren. Zumindest scheinen mir die Xaurips nicht gefolgt zu s …“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2714,7 +2714,7 @@ Dieser Helm trägt das Sonnensymbol der readceranischen Armee. Wahrscheinlich wu
     </Entry>
     <Entry>
       <ID>556</ID>
-      <DefaultText>Dieses Stück Pergament ist zerrissen und mit Blut und Trollspeichel gesprenkelt. Auf dem verbliebenen Rest steht: „Besorgt, dass ihm etwas passiert sein könnte. Nachdem ich Trutzbucht erreicht habe, werde ich Führer anwerben, die mich sicher zurück nach Westen bringen. Vielleicht können wir Fulvano ja finden. Momentan bereue ich meinen Eifer, Goldtal verlassen zu haben. Es ist sehr dunkel … “</DefaultText>
+      <DefaultText>Dieses Stück Pergament ist zerrissen und mit Blut und Trollspeichel gesprenkelt. Auf dem verbliebenen Rest steht: „Besorgt, dass ihm etwas passiert sein könnte. Nachdem ich Trutzbucht erreicht habe, werde ich Führer anwerben, die mich sicher zurück nach Westen bringen. Vielleicht können wir Fulvano ja finden. Momentan bereue ich meinen Eifer, Goldtal verlassen zu haben. Es ist sehr dunkel …“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5013,19 +5013,19 @@ Bitte sieh dich vor. Sei dir sicher: Was auch immer passiert, ich liebe dich noc
       <ID>1016</ID>
       <DefaultText>Das verschlungene Gekritzel ist schwer zu lesen, aber als du durch die Seiten blätterst, siehst du mehrere lesbare Passagen. Ziemlich am Anfang liest du Folgendes:
 
-„ … wird ein geeigneter Ort für meine Experimente sein. Es gibt dort mehr als genug Platz, aber noch besser ist, dass ihn die Einheimischen bereitwillig ignorieren. Möglich wäre wahrscheinlich sogar ein B … “
+„… wird ein geeigneter Ort für meine Experimente sein. Es gibt dort mehr als genug Platz, aber noch besser ist, dass ihn die Einheimischen bereitwillig ignorieren. Möglich wäre wahrscheinlich sogar ein B …“
 
 Du überspringst mehrere Seiten.
 
-„ … Freiwillige. Das Vermächtnis hat viele Missstände ans Licht gebracht, und das Einfangen der Essenz ist hauptsächlich eine Frage des richtigen Zeitpunkts. Das Ritual des Bildnisses fungiert als gute Vorlage für … “
+„… Freiwillige. Das Vermächtnis hat viele Missstände ans Licht gebracht, und das Einfangen der Essenz ist hauptsächlich eine Frage des richtigen Zeitpunkts. Das Ritual des Bildnisses fungiert als gute Vorlage für …“
 
 Du überfliegst die Mitte des Buches.
 
-„ … starben und ihre Essenzen verdampften. Nächstes Mal muss ich es mit einer geringeren Konzentration der Reagenz versuchen, um … “
+„… starben und ihre Essenzen verdampften. Nächstes Mal muss ich es mit einer geringeren Konzentration der Reagenz versuchen, um …“
 
 Du blätterst bis zur letzten Seite.
 
-„ … Edelmann aus Trutzbucht. Die Ergebnisse deckten sich größtenteils mit denen der anderen Testpersonen. Die Methode auf einen widerwilligen Teilnehmer anzuwenden, stellt immer eine Herausforderung dar, aber ihre Situation könnte sich als Vorteil herausstellen. Falls es mir gelingt, diese Erinnerungen an ihren Onkel nach vorne zu holen, könnte ihre Essenz dadurch empfänglicher für das Verfahren werden.“</DefaultText>
+„… Edelmann aus Trutzbucht. Die Ergebnisse deckten sich größtenteils mit denen der anderen Testpersonen. Die Methode auf einen widerwilligen Teilnehmer anzuwenden, stellt immer eine Herausforderung dar, aber ihre Situation könnte sich als Vorteil herausstellen. Falls es mir gelingt, diese Erinnerungen an ihren Onkel nach vorne zu holen, könnte ihre Essenz dadurch empfänglicher für das Verfahren werden.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -7218,7 +7218,7 @@ Der Gegenstand, den sein Vater ihm gegeben hatte, war ein altes Silbermedaillon.
 
 Manche glauben, dass gleich mehrere dieser Hörner geschaffen wurden. Sänger aus dem Land der Lebenden erzählen Geschichten von Männern und Frauen, die aus diesen Hörnern tranken, um sich dann kopfüber in die Schlacht zu stürzen, wobei sie die Herkunft ihrer Feinde mit blumigen Beleidigungen beschrieben. Wenn aber tatsächlich noch weitere Hörner existieren, wurden sie nie gefunden.
 
-Das Horn ist an einen Ledergurt gebunden und mit grünspanverkrusteten Schuppenbändern umgeben. Auf einer Seite ist es graviert. Der Großteil der Schrift ist nicht mehr zu entziffern, nur die Wörter „ … in Maßen genossen“ sind noch zu lesen.</DefaultText>
+Das Horn ist an einen Ledergurt gebunden und mit grünspanverkrusteten Schuppenbändern umgeben. Auf einer Seite ist es graviert. Der Großteil der Schrift ist nicht mehr zu entziffern, nur die Wörter „… in Maßen genossen“ sind noch zu lesen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

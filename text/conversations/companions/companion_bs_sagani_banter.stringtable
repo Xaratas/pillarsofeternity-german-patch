@@ -6,7 +6,7 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>„ … und bevor ich noch reagieren konnte, war der Stelgaer über mir und ich lag mit dem Gesicht nach unten im Dreck.“</DefaultText>
+      <DefaultText>„… und bevor ich noch reagieren konnte, war der Stelgaer über mir und ich lag mit dem Gesicht nach unten im Dreck.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -16,12 +16,12 @@
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>„Was? Nein. Ich geisterwandelte. Und sie war heiß. Daher zielte ich auf den Hals, aber nicht mit einem Pfeil … “</DefaultText>
+      <DefaultText>„Was? Nein. Ich geisterwandelte. Und sie war heiß. Daher zielte ich auf den Hals, aber nicht mit einem Pfeil …“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>„Aber wenn dir deine Ducs die Heimkehr befahlen … “</DefaultText>
+      <DefaultText>„Aber wenn dir deine Ducs die Heimkehr befahlen …“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -66,7 +66,7 @@
     </Entry>
     <Entry>
       <ID>13</ID>
-      <DefaultText>„Na ja, das ist nur für den Anfang! Lass mich etwas Pergament für Notizen herausholen … “</DefaultText>
+      <DefaultText>„Na ja, das ist nur für den Anfang! Lass mich etwas Pergament für Notizen herausholen …“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

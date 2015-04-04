@@ -268,7 +268,7 @@ Der Drache harkt mit seinen Klauen über die Erde. „Natürlich liegen hier meh
     </Entry>
     <Entry>
       <ID>83</ID>
-      <DefaultText>„Du meinst, du würdest mich freigraben?“ Der Drache äugt dich neugierig an. „ … Es könnte einen Weg geben, wenn du gewillt bist.“</DefaultText>
+      <DefaultText>„Du meinst, du würdest mich freigraben?“ Der Drache äugt dich neugierig an. „… Es könnte einen Weg geben, wenn du gewillt bist.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -390,7 +390,7 @@ Der Drache harkt mit seinen Klauen über die Erde. „Natürlich liegen hier meh
       <ID>114</ID>
       <DefaultText>„Ein Tor in die Vergangenheit. Die Geschichte eines gefallenen Volks. Die verfluchten Schätze eines verrückten Königs!“
 
-„ … Das letzte Denkmal eines verzweifelten Vaters, ein alter, in der Dunkelheit wimmernder Mann.“</DefaultText>
+„… Das letzte Denkmal eines verzweifelten Vaters, ein alter, in der Dunkelheit wimmernder Mann.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -475,7 +475,7 @@ Der Drache harkt mit seinen Klauen über die Erde. „Natürlich liegen hier meh
     </Entry>
     <Entry>
       <ID>137</ID>
-      <DefaultText>„ … Natürlich ist jede einzelne Seele eine Belanglosigkeit, ein Regentropfen in der Wüste.“</DefaultText>
+      <DefaultText>„… Natürlich ist jede einzelne Seele eine Belanglosigkeit, ein Regentropfen in der Wüste.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -530,7 +530,7 @@ Der Drache harkt mit seinen Klauen über die Erde. „Natürlich liegen hier meh
     </Entry>
     <Entry>
       <ID>148</ID>
-      <DefaultText>„Dann … “ Der Drache greift sich an die Schulter und entfernt mit einem mächtigen Kratzer eine schwere Schuppe, die vor dir wie ein geworfener Schild im Boden einschlägt.</DefaultText>
+      <DefaultText>„Dann …“ Der Drache greift sich an die Schulter und entfernt mit einem mächtigen Kratzer eine schwere Schuppe, die vor dir wie ein geworfener Schild im Boden einschlägt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -585,7 +585,7 @@ Der Drache harkt mit seinen Klauen über die Erde. „Natürlich liegen hier meh
     </Entry>
     <Entry>
       <ID>159</ID>
-      <DefaultText>Saganis Augen weiten sich. „DAS wäre eine Trophäe, mit der man die Familie beeindrucken könnte … “</DefaultText>
+      <DefaultText>Saganis Augen weiten sich. „DAS wäre eine Trophäe, mit der man die Familie beeindrucken könnte …“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -607,12 +607,12 @@ Der Drache harkt mit seinen Klauen über die Erde. „Natürlich liegen hier meh
     </Entry>
     <Entry>
       <ID>163</ID>
-      <DefaultText>„ … Oh.“</DefaultText>
+      <DefaultText>„… Oh.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>164</ID>
-      <DefaultText>„Und ich wollte dir gerade dafür danken, dass du mich aus Goldtal geholt hast … “</DefaultText>
+      <DefaultText>„Und ich wollte dir gerade dafür danken, dass du mich aus Goldtal geholt hast …“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

@@ -315,8 +315,8 @@ Sîdha wendet sich wieder dir zu.</DefaultText>
     </Entry>
     <Entry>
       <ID>64</ID>
-      <DefaultText>„An eine solche Vergangenheit gekettet zu sein … “ Ihr Gesicht ist fahl, ihre Augen leer. „Eine bittere, traurige Sache, Wächter.“</DefaultText>
-      <FemaleText>„An eine solche Vergangenheit gekettet zu sein … “ Ihr Gesicht ist fahl, ihre Augen leer. „Eine bittere, traurige Sache, Wächterin.“</FemaleText>
+      <DefaultText>„An eine solche Vergangenheit gekettet zu sein …“ Ihr Gesicht ist fahl, ihre Augen leer. „Eine bittere, traurige Sache, Wächter.“</DefaultText>
+      <FemaleText>„An eine solche Vergangenheit gekettet zu sein …“ Ihr Gesicht ist fahl, ihre Augen leer. „Eine bittere, traurige Sache, Wächterin.“</FemaleText>
     </Entry>
     <Entry>
       <ID>66</ID>

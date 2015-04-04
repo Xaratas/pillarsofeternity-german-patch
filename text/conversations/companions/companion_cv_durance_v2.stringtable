@@ -37,7 +37,7 @@ Die Spannung weicht aus seinem Gesicht, und das Bärenfallengrinsen lässt nach.
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>„Ich schwöre vor der Hure, deren Name Magran lautet, dass dir in ihrem Schatten nichts zustoßen wird, falls dir das als Versprechen reicht. Falls nicht … “
+      <DefaultText>„Ich schwöre vor der Hure, deren Name Magran lautet, dass dir in ihrem Schatten nichts zustoßen wird, falls dir das als Versprechen reicht. Falls nicht …“
 
 Er hält einen Stab locker in seiner Hand - der einen Augenblick zuvor noch nicht da war.</DefaultText>
       <FemaleText />
@@ -106,7 +106,7 @@ Ich könnte darauf wetten, dass selbst du schon mal für Kupfermünzen gegen dei
     </Entry>
     <Entry>
       <ID>23</ID>
-      <DefaultText>„Ich nehme jedoch Anstoß … “ Der Mann grinst dich fast herausfordernd an. „ … wenn von einem Mann nur noch Worte übrig sind - dann sollte er vor allem im Dyrwald die Erlaubnis haben, sie auch auszusprechen.“</DefaultText>
+      <DefaultText>„Ich nehme jedoch Anstoß …“ Der Mann grinst dich fast herausfordernd an. „… wenn von einem Mann nur noch Worte übrig sind - dann sollte er vor allem im Dyrwald die Erlaubnis haben, sie auch auszusprechen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -135,7 +135,7 @@ Als du aufblickst, siehst du den Mann, der dich beim Studieren des Stabs beobach
     </Entry>
     <Entry>
       <ID>28</ID>
-      <DefaultText>„Ich habe ihn nicht hergegeben.“ Der Mann grunzt. „Namen findest du wahrscheinlich ebenso nutzlos wie ich … “ Seine Hand festigt ihren Griff um den Stab. 
+      <DefaultText>„Ich habe ihn nicht hergegeben.“ Der Mann grunzt. „Namen findest du wahrscheinlich ebenso nutzlos wie ich …“ Seine Hand festigt ihren Griff um den Stab. 
 
 „Es ist schon schwer genug, die Namen auszusprechen, die wie Trümmer auf dieser Welt herumliegen, und was haben sie schon zu bedeuten?“</DefaultText>
       <FemaleText />
@@ -144,7 +144,7 @@ Als du aufblickst, siehst du den Mann, der dich beim Studieren des Stabs beobach
       <ID>29</ID>
       <DefaultText>„Es geht darum, was unter der Haut liegt, und die Buchstaben, die mir etwas bedeuten, brennen von innen heraus. Für mich ist es viel wichtiger, dass du ein Wächter bist, als welche Kultur oder welcher Akzent wie plumpe Kronen deine Buchstaben verzieren.“
 
-„Sei stolz auf deine Taten, nicht darauf, woher du stammst … “ Einen Moment lang bricht Feuer aus dem Stab des Mannes, dann kommen die glühenden Kohlen zur Ruhe. „ … oder wie dein Namen irgendeinem Lügner von der Zunge geht, dem sie gerade darauf liegt.“</DefaultText>
+„Sei stolz auf deine Taten, nicht darauf, woher du stammst …“ Einen Moment lang bricht Feuer aus dem Stab des Mannes, dann kommen die glühenden Kohlen zur Ruhe. „… oder wie dein Namen irgendeinem Lügner von der Zunge geht, dem sie gerade darauf liegt.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -253,7 +253,7 @@ Ja, ich weiß was du bist, und dein Name interessiert mich nicht. Namen sind fü
     </Entry>
     <Entry>
       <ID>50</ID>
-      <DefaultText>„Und was die Krankheit angeht … “ Er tippt auf die Pockennarben auf seinem Gesicht. „Nicht alle von uns waren dem Wasser so nahe, als die Pocken zuschlugen, aber ich trage sie nun nicht mehr in meinem Fleisch. Auch sie haben ihre Spuren hinterlassen. 
+      <DefaultText>„Und was die Krankheit angeht …“ Er tippt auf die Pockennarben auf seinem Gesicht. „Nicht alle von uns waren dem Wasser so nahe, als die Pocken zuschlugen, aber ich trage sie nun nicht mehr in meinem Fleisch. Auch sie haben ihre Spuren hinterlassen. 
 
 Aber wie die Flammen schlagen auch die Pocken nicht zweimal zu, und sie sind nicht ansteckend.“</DefaultText>
       <FemaleText />
@@ -456,7 +456,7 @@ Sein Gesicht verdunkelt sich. „Woedica … sie muss ihrer eigenen Gerechtigkei
     </Entry>
     <Entry>
       <ID>122</ID>
-      <DefaultText>„ … vielleicht ist es das, was mir vorbestimmt war, zu sehen.“ Er schaut dich argwöhnisch unter seinen Augenbrauen an. „Mit den Augen eines Wächters.“</DefaultText>
+      <DefaultText>„… vielleicht ist es das, was mir vorbestimmt war, zu sehen.“ Er schaut dich argwöhnisch unter seinen Augenbrauen an. „Mit den Augen eines Wächters.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -544,7 +544,7 @@ Sein Gesicht verdunkelt sich. „Woedica … sie muss ihrer eigenen Gerechtigkei
     </Entry>
     <Entry>
       <ID>140</ID>
-      <DefaultText>Durance lacht abermals. „Das ist alles, was du hast? Ein Gefühl?“ Er knurrt wütend. „Wenn mich Gefühle dazu provozieren würde, jeden Gedanken auszusprechen, der mir in den Sinn kommt … “ Er schüttelt den Kopf. „Verschwinde, und lass mich mit meinen Gedanken alleine.“</DefaultText>
+      <DefaultText>Durance lacht abermals. „Das ist alles, was du hast? Ein Gefühl?“ Er knurrt wütend. „Wenn mich Gefühle dazu provozieren würde, jeden Gedanken auszusprechen, der mir in den Sinn kommt …“ Er schüttelt den Kopf. „Verschwinde, und lass mich mit meinen Gedanken alleine.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

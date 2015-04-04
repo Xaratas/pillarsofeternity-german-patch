@@ -21,8 +21,8 @@
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>„Es ist immer eine Freude, einen so klugen Freund zu sehen.“ Er beginnt wieder, die Schriftrollen auf dem Tisch durchzugehen. „Irgendwo hier muss es doch sein … “</DefaultText>
-      <FemaleText>„Es ist immer eine Freude, eine so kluge Freundin zu sehen.“ Er beginnt wieder, die Schriftrollen auf dem Tisch durchzugehen. „Irgendwo hier muss es doch sein … “</FemaleText>
+      <DefaultText>„Es ist immer eine Freude, einen so klugen Freund zu sehen.“ Er beginnt wieder, die Schriftrollen auf dem Tisch durchzugehen. „Irgendwo hier muss es doch sein …“</DefaultText>
+      <FemaleText>„Es ist immer eine Freude, eine so kluge Freundin zu sehen.“ Er beginnt wieder, die Schriftrollen auf dem Tisch durchzugehen. „Irgendwo hier muss es doch sein …“</FemaleText>
     </Entry>
     <Entry>
       <ID>5</ID>
@@ -165,7 +165,7 @@
     </Entry>
     <Entry>
       <ID>38</ID>
-      <DefaultText>Kurren nimmt den Ring und untersucht ihn genau. „Das ist in der Tat der ihre. Und er war an … “ Er schließt die Augen. „Dunklen Orten. Kalten Orten. Toten Orten.“ Seine Augen öffnen sich blitzartig wieder. „Hervorragende Arbeit. Durch diesen Hinweis kann ich sie zum Verhör bitten und die Wahrheit aus ihr herauskitzeln.“</DefaultText>
+      <DefaultText>Kurren nimmt den Ring und untersucht ihn genau. „Das ist in der Tat der ihre. Und er war an …“ Er schließt die Augen. „Dunklen Orten. Kalten Orten. Toten Orten.“ Seine Augen öffnen sich blitzartig wieder. „Hervorragende Arbeit. Durch diesen Hinweis kann ich sie zum Verhör bitten und die Wahrheit aus ihr herauskitzeln.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -175,7 +175,7 @@
     </Entry>
     <Entry>
       <ID>40</ID>
-      <DefaultText>„Was meine Bezahlung angeht … “</DefaultText>
+      <DefaultText>„Was meine Bezahlung angeht …“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -255,7 +255,7 @@
     </Entry>
     <Entry>
       <ID>57</ID>
-      <DefaultText>„Wurde von Elcga als vermisst gemeldet, einer Zwergin, die nach … “ Er schließt die Augen und schnüffelt in die Luft. „Edlem Wein und jungen Dandys roch. Sie hat jede Menge Zeit und Geld für ihre Vergnügungen. Versuch es in Farnheim.“</DefaultText>
+      <DefaultText>„Wurde von Elcga als vermisst gemeldet, einer Zwergin, die nach …“ Er schließt die Augen und schnüffelt in die Luft. „Edlem Wein und jungen Dandys roch. Sie hat jede Menge Zeit und Geld für ihre Vergnügungen. Versuch es in Farnheim.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -453,12 +453,12 @@ Seine Nase zuckt, als er dich anblickt. „Äußerst nützlich, um Verbrechen zu
     </Entry>
     <Entry>
       <ID>114</ID>
-      <DefaultText>„Ja, natürlich.“ Er reibt die Hände zusammen. „Solltest du es dir anders überlegen … “</DefaultText>
+      <DefaultText>„Ja, natürlich.“ Er reibt die Hände zusammen. „Solltest du es dir anders überlegen …“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>115</ID>
-      <DefaultText>„Eine Verbindung, ja! Ich bin ganz sicher … “</DefaultText>
+      <DefaultText>„Eine Verbindung, ja! Ich bin ganz sicher …“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

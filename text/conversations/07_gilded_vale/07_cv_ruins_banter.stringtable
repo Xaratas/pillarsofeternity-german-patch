@@ -43,7 +43,7 @@ Sie betrachtet die gezackte Schnittwunde über Heodans Bauch. „Kannst du gehen
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>„Das war … “ Calisca schüttelt den Kopf. „Wir sollten tot sein.“</DefaultText>
+      <DefaultText>„Das war …“ Calisca schüttelt den Kopf. „Wir sollten tot sein.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -99,9 +99,9 @@ Sie betrachtet die gezackte Schnittwunde über Heodans Bauch. „Kannst du gehen
     </Entry>
     <Entry>
       <ID>18</ID>
-      <DefaultText>„Das glaube ich einfach nicht, Odema hätte es niemals gestattet. Die Fänge mögen ja durchaus Hitzköpfe sein, aber generell greifen Glanfathaner doch nicht ohne Provokation an. Entweder haben sie etwas gesehen und falsch aufgefasst, oder … “
+      <DefaultText>„Das glaube ich einfach nicht, Odema hätte es niemals gestattet. Die Fänge mögen ja durchaus Hitzköpfe sein, aber generell greifen Glanfathaner doch nicht ohne Provokation an. Entweder haben sie etwas gesehen und falsch aufgefasst, oder …“
 
-Sie blickt den vorausliegenden Weg hinab. „ … unter uns befinden sich Plünderer. Das ist etwas, was wir jetzt gar nicht gebrauchen können.“</DefaultText>
+Sie blickt den vorausliegenden Weg hinab. „… unter uns befinden sich Plünderer. Das ist etwas, was wir jetzt gar nicht gebrauchen können.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -204,7 +204,7 @@ Sie blickt auf. „Mögen ihnen die Götter in ihren nächsten Leben mehr Glück
     </Entry>
     <Entry>
       <ID>37</ID>
-      <DefaultText>Heodan schüttelt den Kopf. „Alle blieben bei den Wagen. Odema hätte kein Lager aufgeschlagen, wenn wir zu nahe gewesen wären. Es sei denn … “ Er kratzt sich am Kopf.
+      <DefaultText>Heodan schüttelt den Kopf. „Alle blieben bei den Wagen. Odema hätte kein Lager aufgeschlagen, wenn wir zu nahe gewesen wären. Es sei denn …“ Er kratzt sich am Kopf.
 
 „Es sei denn, sie hatten uns mit jemand anderem verwechselt. Ich hörte, dass diese Orte Plünderer anziehen - Briganten, Diebe und andere Gesetzlose. Aber gegen uns würden sie doch nicht haben, oder? Wir sind doch nur auf der Durchreise.“ Er klingt so, als wolle er sich selbst überzeugen.</DefaultText>
       <FemaleText />
@@ -328,7 +328,7 @@ Er seufzt. „Später wird noch genug Zeit dafür sein, das hier einsacken zu la
     </Entry>
     <Entry>
       <ID>68</ID>
-      <DefaultText>„Arme Calisca … “</DefaultText>
+      <DefaultText>„Arme Calisca …“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -338,7 +338,7 @@ Er seufzt. „Später wird noch genug Zeit dafür sein, das hier einsacken zu la
     </Entry>
     <Entry>
       <ID>71</ID>
-      <DefaultText>Er setzt sich schnell auf und sieht sich in der Kammer um. „Sie hat uns wirklich verlassen. Sie wird nicht weit kommen, es sei denn … “ Er kriecht auf den Knien umher und beginnt mit wachsender Verzweiflung die Ausrüstung zu durchstöbern.</DefaultText>
+      <DefaultText>Er setzt sich schnell auf und sieht sich in der Kammer um. „Sie hat uns wirklich verlassen. Sie wird nicht weit kommen, es sei denn …“ Er kriecht auf den Knien umher und beginnt mit wachsender Verzweiflung die Ausrüstung zu durchstöbern.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -428,17 +428,17 @@ Er seufzt. „Später wird noch genug Zeit dafür sein, das hier einsacken zu la
     </Entry>
     <Entry>
       <ID>93</ID>
-      <DefaultText>Er setzt sich schnell auf und sieht sich in der Kammer um. „Sie hat uns wirklich verlassen. Sie wird nicht weit kommen, es sei dein … “ Er kriecht auf den Knien umher und beginnt mit wachsender Verzweiflung die Ausrüstung zu durchstöbern.</DefaultText>
+      <DefaultText>Er setzt sich schnell auf und sieht sich in der Kammer um. „Sie hat uns wirklich verlassen. Sie wird nicht weit kommen, es sei dein …“ Er kriecht auf den Knien umher und beginnt mit wachsender Verzweiflung die Ausrüstung zu durchstöbern.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>94</ID>
-      <DefaultText>Er setzt sich schnell auf und sieht sich in der Kammer um. „Sie hat uns wirklich verlassen. Sie wird nicht weit kommen, es sei dein … “ Er kriecht auf den Knien umher und beginnt mit wachsender Verzweiflung die Ausrüstung zu durchstöbern.</DefaultText>
+      <DefaultText>Er setzt sich schnell auf und sieht sich in der Kammer um. „Sie hat uns wirklich verlassen. Sie wird nicht weit kommen, es sei dein …“ Er kriecht auf den Knien umher und beginnt mit wachsender Verzweiflung die Ausrüstung zu durchstöbern.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>95</ID>
-      <DefaultText>Er setzt sich schnell auf und sieht sich in der Kammer um. „Sie hat uns wirklich verlassen. Sie wird nicht weit kommen, es sei dein … “ Er kriecht auf den Knien umher und beginnt mit wachsender Verzweiflung die Ausrüstung zu durchstöbern.</DefaultText>
+      <DefaultText>Er setzt sich schnell auf und sieht sich in der Kammer um. „Sie hat uns wirklich verlassen. Sie wird nicht weit kommen, es sei dein …“ Er kriecht auf den Knien umher und beginnt mit wachsender Verzweiflung die Ausrüstung zu durchstöbern.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

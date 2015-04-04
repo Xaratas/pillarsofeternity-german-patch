@@ -150,7 +150,7 @@ Er deutet auf die gestapelten Kisten. „Wir transportieren Fracht in die Republ
     </Entry>
     <Entry>
       <ID>67</ID>
-      <DefaultText>„Wie, die Doemenels waren da?“ Verzano reißt seine Augen auf und zupft an seinem Bart. „Ich war doch so vorsichtig und folgte immer der Verlavita. Sie können unmöglich davon gewusst haben … “</DefaultText>
+      <DefaultText>„Wie, die Doemenels waren da?“ Verzano reißt seine Augen auf und zupft an seinem Bart. „Ich war doch so vorsichtig und folgte immer der Verlavita. Sie können unmöglich davon gewusst haben …“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -222,7 +222,7 @@ Er deutet auf die gestapelten Kisten. „Wir transportieren Fracht in die Republ
     </Entry>
     <Entry>
       <ID>82</ID>
-      <DefaultText>Ein Stirnrunzeln verzerrt seinen akribisch gepflegten Spitzbart. „Während der letzten Wochen sind meine eigenen Kuriere ausgeraubt und geschlagen worden. Anscheinend verübeln mir einige meiner Konkurrenten meinen Erfolg. Wie auch immer: Du wirst nicht mit mir in Verbindung gebracht werden, und man wird dich in Ruhe lassen. Falls nicht … “ Er zuckt mit den Achseln und grinst. „Du siehst aus, als wärest du recht fähig.“
+      <DefaultText>Ein Stirnrunzeln verzerrt seinen akribisch gepflegten Spitzbart. „Während der letzten Wochen sind meine eigenen Kuriere ausgeraubt und geschlagen worden. Anscheinend verübeln mir einige meiner Konkurrenten meinen Erfolg. Wie auch immer: Du wirst nicht mit mir in Verbindung gebracht werden, und man wird dich in Ruhe lassen. Falls nicht …“ Er zuckt mit den Achseln und grinst. „Du siehst aus, als wärest du recht fähig.“
 
 „Außerdem weiß ganz Trutzbucht um deine Integrität. Und du musst meinen Versicherungen vertrauen, dass du außer meinem Kontakt keinen Käufer dafür finden würdest.“</DefaultText>
       <FemaleText />
@@ -246,7 +246,7 @@ Mit zitternden Händen übergibt er einen Münzbeutel. „Das ist alles, was ich
     </Entry>
     <Entry>
       <ID>86</ID>
-      <DefaultText>[Angreifen] „Die Doemenels sind es nicht, um die du dir Sorgen machen musst … “</DefaultText>
+      <DefaultText>[Angreifen] „Die Doemenels sind es nicht, um die du dir Sorgen machen musst …“</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

@@ -518,7 +518,7 @@ Sie wendet sich wieder dem Feuer zu. „Wer diesen Hunger mit lebendem Fleisch u
     </Entry>
     <Entry>
       <ID>180</ID>
-      <DefaultText>„Ich habe im Hinterzimmer eine Gruppe von Leuten gesehen … “</DefaultText>
+      <DefaultText>„Ich habe im Hinterzimmer eine Gruppe von Leuten gesehen …“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -528,7 +528,7 @@ Sie wendet sich wieder dem Feuer zu. „Wer diesen Hunger mit lebendem Fleisch u
     </Entry>
     <Entry>
       <ID>182</ID>
-      <DefaultText>[Angreifen] „Du warst eine große Hilfe. Leider kann ich dich nicht leben lassen … “</DefaultText>
+      <DefaultText>[Angreifen] „Du warst eine große Hilfe. Leider kann ich dich nicht leben lassen …“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -560,7 +560,7 @@ Sie wendet sich wieder dem Feuer zu. „Wer diesen Hunger mit lebendem Fleisch u
       <ID>188</ID>
       <DefaultText>„Jemand hat die Maschine auf dem Turm aktiviert. Und nach allem, was ich weiß, kann das nur jemand gewesen sein, der so gut Engwithanisch spricht wie ich.“
 
-„Nachdem die Leute hier anfingen zu sterben, war es nur eine Frage der Zeit, bis der Bezirk im Chaos versinkt. Ich für meinen Teil bin nur enttäuscht, dass ich keine Gelegenheit hatte, diesen mysteriösen Provokateur zu sprechen. Stell dir nur vor, welches Wissen er oder sie besitzen muss … “</DefaultText>
+„Nachdem die Leute hier anfingen zu sterben, war es nur eine Frage der Zeit, bis der Bezirk im Chaos versinkt. Ich für meinen Teil bin nur enttäuscht, dass ich keine Gelegenheit hatte, diesen mysteriösen Provokateur zu sprechen. Stell dir nur vor, welches Wissen er oder sie besitzen muss …“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -650,7 +650,7 @@ Sie zuckt mit den Achseln. „Anfangs war es unangenehm, aber ich habe mich dara
     </Entry>
     <Entry>
       <ID>204</ID>
-      <DefaultText>„Wegen den Leuten, die im Hinterzimmer eingesperrt sind … “</DefaultText>
+      <DefaultText>„Wegen den Leuten, die im Hinterzimmer eingesperrt sind …“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

@@ -126,22 +126,22 @@ Er geht langsam einen Schritt auf dich zu und streckt seine Hand aus. „Gib mir
     </Entry>
     <Entry>
       <ID>90</ID>
-      <DefaultText>„ … einschließlich jemanden mit solch einer makellosen Erfahrung wie meiner.“</DefaultText>
+      <DefaultText>„… einschließlich jemanden mit solch einer makellosen Erfahrung wie meiner.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>91</ID>
-      <DefaultText>„ … bis sie sich daran erinnern, dass du nicht gerade ein Freund der Burg bist.“</DefaultText>
+      <DefaultText>„… bis sie sich daran erinnern, dass du nicht gerade ein Freund der Burg bist.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>92</ID>
-      <DefaultText>„ … vor allem, wenn man bedenkt, dass du auf der Burg so hoch angesehen bist.“</DefaultText>
+      <DefaultText>„… vor allem, wenn man bedenkt, dass du auf der Burg so hoch angesehen bist.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>94</ID>
-      <DefaultText>Du hörst, wie Hiravias hinter dir leise sagt: „Sieh mal einer an  … dieser Wächter besitzt einen Funken Anstand  … “
+      <DefaultText>Du hörst, wie Hiravias hinter dir leise sagt: „Sieh mal einer an  … dieser Wächter besitzt einen Funken Anstand  …“
 
 Alle Augen richten sich auf ihn, er hebt die Hände. „Was? Kümmert euch nicht um mich, ich habe mit mir selbst gesprochen  … zu laut, wie es scheint.“</DefaultText>
       <FemaleText />
