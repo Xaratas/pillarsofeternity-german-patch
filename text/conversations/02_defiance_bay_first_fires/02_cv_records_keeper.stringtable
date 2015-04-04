@@ -8,7 +8,7 @@
       <ID>1</ID>
       <DefaultText>Ein schweigsamer Mann mit graumeliertem Haar grübelt über einem Wälzer, den er gerade erst aus den Regalen gezogen hat. Er blickt mit übernächtigten Augen zu dir hoch.
 
-"Ja? Kann ich etwas für dich tun?"</DefaultText>
+„Ja? Kann ich etwas für dich tun?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -18,17 +18,17 @@
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>Der Mann fährt mit seiner Arbeit fort, ohne aufzuschauen. "Hmmh?"</DefaultText>
+      <DefaultText>Der Mann fährt mit seiner Arbeit fort, ohne aufzuschauen. „Hmmh?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>"Ich suche nach Milizregistern aus dem Krieg des Heiligen. Ich versuche herauszufinden, was mit einem bestimmten Milizionär geschehen ist."</DefaultText>
+      <DefaultText>„Ich suche nach Milizregistern aus dem Krieg des Heiligen. Ich versuche herauszufinden, was mit einem bestimmten Milizionär geschehen ist.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>"Nein, ich habe mich nur ein bisschen umgesehen."</DefaultText>
+      <DefaultText>„Nein, ich habe mich nur ein bisschen umgesehen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -38,34 +38,34 @@
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>Zum ersten Mal wendet er dir seine uneingeschränkte Aufmerksamkeit zu, und seine Augen flackern anerkennend. "Natürlich ... dieser Grundsatz gilt für die Allgemeinheit. Ausnahmen können für jene gemacht werden, die ihren Wert bereits unter Beweis gestellt haben."</DefaultText>
+      <DefaultText>Zum ersten Mal wendet er dir seine uneingeschränkte Aufmerksamkeit zu, und seine Augen flackern anerkennend. „Natürlich ... dieser Grundsatz gilt für die Allgemeinheit. Ausnahmen können für jene gemacht werden, die ihren Wert bereits unter Beweis gestellt haben.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>Der Mann räuspert sich. "Wir hatten schon mehrere Anfragen über solche Informationen. Ich befürchte, dass wir den Zugriff für die Allgemeinheit sperren mussten.
+      <DefaultText>Der Mann räuspert sich. „Wir hatten schon mehrere Anfragen über solche Informationen. Ich befürchte, dass wir den Zugriff für die Allgemeinheit sperren mussten.
 
-Anscheinend gibt es im Dyrwald noch immer etliche Leute, die Readceranern gegenüber Feindseligkeiten hegen. Ihre Namen einfach an jeden auszugeben, der danach fragt, wäre unmöglich - viele von ihnen haben sich hier als Flüchtlinge niedergelassen."</DefaultText>
+Anscheinend gibt es im Dyrwald noch immer etliche Leute, die Readceranern gegenüber Feindseligkeiten hegen. Ihre Namen einfach an jeden auszugeben, der danach fragt, wäre unmöglich - viele von ihnen haben sich hier als Flüchtlinge niedergelassen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>"Die dyrwäldlerische Behandlung readceranischer Kriegsgefangener und Flüchtlinge war beklagenswert."</DefaultText>
+      <DefaultText>„Die dyrwäldlerische Behandlung readceranischer Kriegsgefangener und Flüchtlinge war beklagenswert.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>11</ID>
-      <DefaultText>"Ich bin selbst aus dem Ausland. Ich hege keinen Groll gegen Readceras."</DefaultText>
+      <DefaultText>„Ich bin selbst aus dem Ausland. Ich hege keinen Groll gegen Readceras.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>12</ID>
-      <DefaultText>"Ich nehme mir, was ich will."</DefaultText>
+      <DefaultText>„Ich nehme mir, was ich will.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>13</ID>
-      <DefaultText>"Wir haben einen weiten Weg hinter uns."</DefaultText>
+      <DefaultText>„Wir haben einen weiten Weg hinter uns.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -80,44 +80,44 @@ Anscheinend gibt es im Dyrwald noch immer etliche Leute, die Readceranern gegen�
     </Entry>
     <Entry>
       <ID>17</ID>
-      <DefaultText>Der Archivar runzelt die Stirn. "Ist das der Palast des Ducs? Ich kann dir versichern, dass du das nicht tun wirst.
+      <DefaultText>Der Archivar runzelt die Stirn. „Ist das der Palast des Ducs? Ich kann dir versichern, dass du das nicht tun wirst.
 
-Außerdem würdest du diese Schriftrollen ohne meine Unterstützung eh jahrelang durchgehen."</DefaultText>
+Außerdem würdest du diese Schriftrollen ohne meine Unterstützung eh jahrelang durchgehen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>18</ID>
-      <DefaultText>"Wenn du in Trutzbucht bekannter wärst, würde es sich anders verhalten. Ich habe aber keinen Grund zur Annahme, das du dich in irgendeiner Form von den anderen unterscheidest."</DefaultText>
+      <DefaultText>„Wenn du in Trutzbucht bekannter wärst, würde es sich anders verhalten. Ich habe aber keinen Grund zur Annahme, das du dich in irgendeiner Form von den anderen unterscheidest.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>19</ID>
-      <DefaultText>"Ich bitte um Verständnis, aber ich habe schon viele derartige Geschichten gehört. Ich fürchte, ich kann nichts für dich tun."</DefaultText>
+      <DefaultText>„Ich bitte um Verständnis, aber ich habe schon viele derartige Geschichten gehört. Ich fürchte, ich kann nichts für dich tun.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>20</ID>
-      <DefaultText>"Ich muss nur etwas über meinen Bruder herausfinden. Ich weiß nicht mal, für welche Seite er gekämpft hat."</DefaultText>
+      <DefaultText>„Ich muss nur etwas über meinen Bruder herausfinden. Ich weiß nicht mal, für welche Seite er gekämpft hat.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>21</ID>
-      <DefaultText>"Leb wohl."</DefaultText>
+      <DefaultText>„Leb wohl.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>22</ID>
-      <DefaultText>"Diese Narben an deinen Handgelenken - du bist ein Gefangener gewesen."</DefaultText>
+      <DefaultText>„Diese Narben an deinen Handgelenken - du bist ein Gefangener gewesen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>23</ID>
-      <DefaultText>"War ich einst, ja. Jetzt aber bin ich glücklich und frei, um meine Arbeit zu erledigen. Was für dich unglücklicherweise bedeutet, dass du dir deine Informationen woanders suchen musst."</DefaultText>
+      <DefaultText>„War ich einst, ja. Jetzt aber bin ich glücklich und frei, um meine Arbeit zu erledigen. Was für dich unglücklicherweise bedeutet, dass du dir deine Informationen woanders suchen musst.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>24</ID>
-      <DefaultText>"Ich sehe mich nur um."</DefaultText>
+      <DefaultText>„Ich sehe mich nur um.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -126,33 +126,33 @@ Außerdem würdest du diese Schriftrollen ohne meine Unterstützung eh jahrelang
 
  Er nickt, wobei er wegschaut.
 
-"War es, ja." Der Archivar lässt einen tiefen Seufzer los.</DefaultText>
+„War es, ja.“ Der Archivar lässt einen tiefen Seufzer los.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>26</ID>
       <DefaultText>Er schaut zu einem Regal hoch, zieht einen dicken Wälzer hervor und befreit ihn mit der Hand von einer Staubschicht.
 
-"Die Namenslisten stehen vorne, die Listen der Gefallenen hinten."
+„Die Namenslisten stehen vorne, die Listen der Gefallenen hinten.“
 
 Er gibt das Buch in Edérs ausgestreckte Hände.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>27</ID>
-      <DefaultText>"Ich werde keine Kopien dieser Seiten gestatten, habe ich mich klar ausgedrückt?"</DefaultText>
+      <DefaultText>„Ich werde keine Kopien dieser Seiten gestatten, habe ich mich klar ausgedrückt?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>28</ID>
       <DefaultText>Er schaut dir direkt in die Augen und kneift sie zusammen, als ob er dich dann besser sehen könnte.
 
-"Es ist schon ein recht bedauerlicher Zustand, wenn man Außenseitern leichter vertrauen kann als den eigenen Leuten."</DefaultText>
+„Es ist schon ein recht bedauerlicher Zustand, wenn man Außenseitern leichter vertrauen kann als den eigenen Leuten.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>29</ID>
-      <DefaultText>"Sagt das nicht alles?"</DefaultText>
+      <DefaultText>„Sagt das nicht alles?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -166,136 +166,136 @@ Dann, endlich, stoppt seine Hand und seine Finger kommen unter einem Namen zur R
       <ID>31</ID>
       <DefaultText>Er hält kurz inne und seine Augen quellen etwas hervor. Sie suchen vor und zurück, immer und immer wieder.
 
-"Readceras."</DefaultText>
+„Readceras.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>32</ID>
-      <DefaultText>"Woden Teylecg, Gefallen am 18 Majiverno, 2808. Dritte Schlacht von ... Clee- Clee-ah- Clîaban Rilag."
+      <DefaultText>„Woden Teylecg, Gefallen am 18 Majiverno, 2808. Dritte Schlacht von ... Clee- Clee-ah- Clîaban Rilag.“
 
-"Verdammte glanfathanische Namen, ich schwöre, ich-"</DefaultText>
+„Verdammte glanfathanische Namen, ich schwöre, ich-“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>33</ID>
-      <DefaultText>"Beim Bildnis! Er hat für Readceras gekämpft."
+      <DefaultText>„Beim Bildnis! Er hat für Readceras gekämpft.“
 
 Er starrt mit offenem Mund auf die Seite, bevor er dich plötzlich anschaut.
 
-"Warum hat er für Readceras gekämpft?"</DefaultText>
+„Warum hat er für Readceras gekämpft?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>34</ID>
-      <DefaultText>"Ich weiß es nicht."</DefaultText>
+      <DefaultText>„Ich weiß es nicht.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>35</ID>
-      <DefaultText>"Welche Rolle spielt das? Er war ein Verräter."</DefaultText>
+      <DefaultText>„Welche Rolle spielt das? Er war ein Verräter.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>36</ID>
-      <DefaultText>"Vielleicht sollten wir es nicht herausfinden."</DefaultText>
+      <DefaultText>„Vielleicht sollten wir es nicht herausfinden.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>37</ID>
-      <DefaultText>"Er hatte sicherlich einen guten Grund."</DefaultText>
+      <DefaultText>„Er hatte sicherlich einen guten Grund.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>38</ID>
-      <DefaultText>"Ich auch." Während er auf die Seite starrt, ist er kreidebleich geworden.
+      <DefaultText>„Ich auch.“ Während er auf die Seite starrt, ist er kreidebleich geworden.
 
-"Ich auch."</DefaultText>
+„Ich auch.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>39</ID>
-      <DefaultText>"Nein nein, nicht das. Es gibt eine Antwort, denn er hatte immer einen Grund für das, was er tat."</DefaultText>
+      <DefaultText>„Nein nein, nicht das. Es gibt eine Antwort, denn er hatte immer einen Grund für das, was er tat.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>40</ID>
-      <DefaultText>"Aber das ist es ja. Woden wusste immer, was richtig war. Wenn er für Waidwen kämpfte, ist also nicht er der Verräter ... sondern ich."</DefaultText>
+      <DefaultText>„Aber das ist es ja. Woden wusste immer, was richtig war. Wenn er für Waidwen kämpfte, ist also nicht er der Verräter ... sondern ich.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>41</ID>
-      <DefaultText>"Ich auch nicht. Aber er musste einen guten Grund gehabt haben. So- So war er einfach."</DefaultText>
+      <DefaultText>„Ich auch nicht. Aber er musste einen guten Grund gehabt haben. So- So war er einfach.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>42</ID>
       <DefaultText>Edér wirft dir einen seltsamen Blick zu.
 
-"Wir müssen da hingehen. Zu diesem Schlachtfeld. Clee-äh- Das, das ich erwähnte. Ich weiß nicht, wie ich sonst noch daraus schlau werden sollte. Ich muss sehen, was er sah."</DefaultText>
+„Wir müssen da hingehen. Zu diesem Schlachtfeld. Clee-äh- Das, das ich erwähnte. Ich weiß nicht, wie ich sonst noch daraus schlau werden sollte. Ich muss sehen, was er sah.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>43</ID>
-      <DefaultText>"Wer weiß, vielleicht ist sein Geist sogar immer noch da und du kannst eines deiner gruseligen Gespräche mit ihm führen.
+      <DefaultText>„Wer weiß, vielleicht ist sein Geist sogar immer noch da und du kannst eines deiner gruseligen Gespräche mit ihm führen.
 
-Ist doch einen Versuch wert, oder?"</DefaultText>
+Ist doch einen Versuch wert, oder?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>44</ID>
-      <DefaultText>"Wir werden wahrscheinlich nichts finden."</DefaultText>
+      <DefaultText>„Wir werden wahrscheinlich nichts finden.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>45</ID>
-      <DefaultText>"Ich werde dir helfen, wo ich nur kann."</DefaultText>
+      <DefaultText>„Ich werde dir helfen, wo ich nur kann.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>46</ID>
-      <DefaultText>"Verschwende nicht meine Zeit mit diesem Unsinn."</DefaultText>
+      <DefaultText>„Verschwende nicht meine Zeit mit diesem Unsinn.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>47</ID>
-      <DefaultText>Er nickt mit nach unten gerichtetem Blick und schmalem Grinsen. "Ich weiß."</DefaultText>
+      <DefaultText>Er nickt mit nach unten gerichtetem Blick und schmalem Grinsen. „Ich weiß.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>48</ID>
-      <DefaultText>"Ich weiß, was es ist. Das musst du mir nicht sagen."</DefaultText>
+      <DefaultText>„Ich weiß, was es ist. Das musst du mir nicht sagen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>49</ID>
-      <DefaultText>"Ich ... hatte gehofft, dir über dein Problem hinwegzuhelfen. Aber das ist etwas, das ich tun muss.
+      <DefaultText>„Ich ... hatte gehofft, dir über dein Problem hinwegzuhelfen. Aber das ist etwas, das ich tun muss.
 
-Willst du mir wirklich nicht helfen?"</DefaultText>
+Willst du mir wirklich nicht helfen?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>50</ID>
-      <DefaultText>"Du bist auf dich allein gestellt."</DefaultText>
+      <DefaultText>„Du bist auf dich allein gestellt.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>51</ID>
-      <DefaultText>"Mir war nicht klar, dass du eine so entschiedene Meinung darüber hast. Wir werden zum Schlachtfeld gehen."</DefaultText>
+      <DefaultText>„Mir war nicht klar, dass du eine so entschiedene Meinung darüber hast. Wir werden zum Schlachtfeld gehen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>52</ID>
-      <DefaultText>"Wenn das so ist, möchte ich dir für alles danken, was du bisher für mich getan hast. Viel Glück."</DefaultText>
+      <DefaultText>„Wenn das so ist, möchte ich dir für alles danken, was du bisher für mich getan hast. Viel Glück.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>53</ID>
-      <DefaultText>"Das weiß ich zu schätzen. Ich wünschte sagen zu können, dass du das nicht bereuen wirst, aber das wirst du mit Sicherheit."</DefaultText>
+      <DefaultText>„Das weiß ich zu schätzen. Ich wünschte sagen zu können, dass du das nicht bereuen wirst, aber das wirst du mit Sicherheit.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>54</ID>
-      <DefaultText>"Würde ich so sagen, ja."</DefaultText>
+      <DefaultText>„Würde ich so sagen, ja.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

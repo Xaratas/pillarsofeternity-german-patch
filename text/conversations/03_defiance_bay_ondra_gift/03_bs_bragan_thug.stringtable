@@ -6,17 +6,17 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>"Was guckst du so?"</DefaultText>
+      <DefaultText>„Was guckst du so?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>"Scher dir weg!"</DefaultText>
+      <DefaultText>„Scher dir weg!“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Dir hab ich nichts zu sagen."</DefaultText>
+      <DefaultText>„Dir hab ich nichts zu sagen.“</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

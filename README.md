@@ -3,6 +3,8 @@
 Details for the Patch:
 http://www.nexusmods.com/pillarsofeternity/mods/6/?
 
+Ersetzt auch alle "text" gegen „text“
+
 **Make a release-zip:**
 * `git archive -o ../latest.zip master $(git diff --name-only master..release1.0.2.0508)`
 

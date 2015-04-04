@@ -11,17 +11,17 @@
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>"Wer bist du?"</DefaultText>
+      <DefaultText>„Wer bist du?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>"Dalton hat mich geschickt, dich zu finden."</DefaultText>
+      <DefaultText>„Dalton hat mich geschickt, dich zu finden.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>"Was willst du?"</DefaultText>
+      <DefaultText>„Was willst du?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -58,7 +58,7 @@ Aber Zorn und Verzweiflung nagen an diesen Bildern, bis du nur noch kalte, rote 
     </Entry>
     <Entry>
       <ID>13</ID>
-      <DefaultText>"Leb wohl."</DefaultText>
+      <DefaultText>„Leb wohl.“</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>
