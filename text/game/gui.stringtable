@@ -766,7 +766,7 @@
     </Entry>
     <Entry>
       <ID>152</ID>
-      <DefaultText>In der Schwierigkeitsstufe "Pfad der Verdammten" erhalten Feinde einen Bonus auf die meisten Werte, und in Gefechten erscheinen viel mehr Feinde. Achtung: Diese Option kann nach Spielbeginn nicht angepasst werden. Sie ist nur für Spieler, die große Herausforderungen schätzen!</DefaultText>
+      <DefaultText>In der Schwierigkeitsstufe „Pfad der Verdammten“ erhalten Feinde einen Bonus auf die meisten Werte, und in Gefechten erscheinen viel mehr Feinde. Achtung: Diese Option kann nach Spielbeginn nicht angepasst werden. Sie ist nur für Spieler, die große Herausforderungen schätzen!</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -816,17 +816,17 @@
     </Entry>
     <Entry>
       <ID>162</ID>
-      <DefaultText>Die Schwierigkeitsstufe "Einfach" erfordert minimales Mikromanagement und verzeiht Fehler im Gefecht ohne Umstände. SEHR EMPFOHLEN für Spieler, die zum ersten Mal oder seit langer Zeit wieder gruppenbasierte Echtzeit-RPGs spielen.</DefaultText>
+      <DefaultText>Die Schwierigkeitsstufe „Einfach“ erfordert minimales Mikromanagement und verzeiht Fehler im Gefecht ohne Umstände. SEHR EMPFOHLEN für Spieler, die zum ersten Mal oder seit langer Zeit wieder gruppenbasierte Echtzeit-RPGs spielen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>163</ID>
-      <DefaultText>Die Schwierigkeitsstufe "Normal" erfordert Strategie und Effizienz, doch sie verzeiht einige wenige Fehler im Gefecht. NICHT ZU EMPFEHLEN für Spieler, die zum ersten Mal gruppenbasierte Echtzeit-RPGs spielen.</DefaultText>
+      <DefaultText>Die Schwierigkeitsstufe „Normal“ erfordert Strategie und Effizienz, doch sie verzeiht einige wenige Fehler im Gefecht. NICHT ZU EMPFEHLEN für Spieler, die zum ersten Mal gruppenbasierte Echtzeit-RPGs spielen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>164</ID>
-      <DefaultText>Die Schwierigkeitsstufe "Schwer" ist geeignet für erfahrene Infinity-Engine-Spieler, die nach einer Herausforderung suchen. Überleben erfordert Mikromanagement und Werte-Optimierung durch Gegenstände, Zauber und Fähigkeiten.</DefaultText>
+      <DefaultText>Die Schwierigkeitsstufe „Schwer“ ist geeignet für erfahrene Infinity-Engine-Spieler, die nach einer Herausforderung suchen. Überleben erfordert Mikromanagement und Werte-Optimierung durch Gegenstände, Zauber und Fähigkeiten.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2410,7 +2410,7 @@ Kämpfergeist - Einmal pro Begegnung - 5 Sekunden, nachdem die Ausdauer auf unte
     </Entry>
     <Entry>
       <ID>483</ID>
-      <DefaultText>Das Savannenvolk (Natlaner) kommt ursprünglich aus dem Gebiet südlich des Äquators und sind, mit Ausnahme von manchen Gruppen, die in Richtung Norden ausgewandert sind, seit mehr als 10.000 Jahren am selben Ort ansässig. Wortgetreu bedeutet der Name Natlaner "ursprünglich". Während es in Readceras relativ verbreitet ist, trifft man das Savannenvolk normalerweise nicht im Dyrwald und den Vailianischen Republiken an. 
+      <DefaultText>Das Savannenvolk (Natlaner) kommt ursprünglich aus dem Gebiet südlich des Äquators und sind, mit Ausnahme von manchen Gruppen, die in Richtung Norden ausgewandert sind, seit mehr als 10.000 Jahren am selben Ort ansässig. Wortgetreu bedeutet der Name Natlaner „ursprünglich“. Während es in Readceras relativ verbreitet ist, trifft man das Savannenvolk normalerweise nicht im Dyrwald und den Vailianischen Republiken an. 
 
 Kämpfergeist - Einmal pro Begegnung - 5 Sekunden, nachdem die Ausdauer auf unter 50% gefallen ist - erhalten Menschen vorübergehend Boni auf Genauigkeit und Schaden.</DefaultText>
       <FemaleText />
@@ -2481,7 +2481,7 @@ Geringe Bedrohung - Greift ein sesshafter Orlaner ein Ziel an, das von einem Gru
     </Entry>
     <Entry>
       <ID>493</ID>
-      <DefaultText>Wilde Orlaner sind die "ursprünglichen" Orlaner, die in den tiefsten Wäldern und Dschungeln zwischen den Tropen lebten. Auch wenn sie nur etwa tausend Jahre merklich von den sesshaften Orlanern getrennt waren, sind schnell ein paar genetische Unterschiede aufgetaucht. Bemerkenswert ist dabei vor allem die fehlende Gesichtsbehaarung im Zweig der sesshaften Orlaner. Wilde Orlaner sind in den Tiefen von Eír Glanfath verbreitet. Im Gegensatz zu ihren sesshaften Brüdern sieht man sie nur selten im Dyrwald, in Readceras oder in den Vailianischen Republiken. 
+      <DefaultText>Wilde Orlaner sind die „ursprünglichen“ Orlaner, die in den tiefsten Wäldern und Dschungeln zwischen den Tropen lebten. Auch wenn sie nur etwa tausend Jahre merklich von den sesshaften Orlanern getrennt waren, sind schnell ein paar genetische Unterschiede aufgetaucht. Bemerkenswert ist dabei vor allem die fehlende Gesichtsbehaarung im Zweig der sesshaften Orlaner. Wilde Orlaner sind in den Tiefen von Eír Glanfath verbreitet. Im Gegensatz zu ihren sesshaften Brüdern sieht man sie nur selten im Dyrwald, in Readceras oder in den Vailianischen Republiken. 
 
 Trotzige Entschlossenheit - Nachdem sie einem Willensangriff ausgesetzt waren, erhalten wilde Orlaner vorübergehend einen Bonus auf alle Verteidigungen.</DefaultText>
       <FemaleText />
@@ -2600,7 +2600,7 @@ Beschwörungen - Mächtige magische Effekte, die Sänger auslösen können, wenn
     </Entry>
     <Entry>
       <ID>508</ID>
-      <DefaultText>Todesfeuer setzt sich zusammen aus der Nation von Naasitaq, Dutzenden von Aumaua-Siedlungen und Hunderten von gesetzlosen, piratenverseuchten Inseln, die sich entlang der südlichen See erstrecken. Das Gebiet ist die Heimat der Nordzwerge, der Aumaua und einiger anderer Rassen. Das Todesfeuer-Archipel ist der "letzte Halt" für jeden, der Richtung Osten reist – eine Vielzahl monströser Seekreaturen haben den Ozean befallen und das Reisen praktisch unmöglich gemacht.</DefaultText>
+      <DefaultText>Todesfeuer setzt sich zusammen aus der Nation von Naasitaq, Dutzenden von Aumaua-Siedlungen und Hunderten von gesetzlosen, piratenverseuchten Inseln, die sich entlang der südlichen See erstrecken. Das Gebiet ist die Heimat der Nordzwerge, der Aumaua und einiger anderer Rassen. Das Todesfeuer-Archipel ist der „letzte Halt“ für jeden, der Richtung Osten reist – eine Vielzahl monströser Seekreaturen haben den Ozean befallen und das Reisen praktisch unmöglich gemacht.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

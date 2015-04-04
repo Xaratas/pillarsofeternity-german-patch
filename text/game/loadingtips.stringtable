@@ -246,7 +246,7 @@
     </Entry>
     <Entry>
       <ID>54</ID>
-      <DefaultText>Alle Waffen, die einen Schadenstyp wie "Hieb oder Wucht" aufführen, richten jeweils den Schadenstyp an, der in der aktuellen Situation vorteilhafter ist - meist den Schadenstyp, gegen den das Ziel am anfälligsten ist.</DefaultText>
+      <DefaultText>Alle Waffen, die einen Schadenstyp wie „Hieb oder Wucht“ aufführen, richten jeweils den Schadenstyp an, der in der aktuellen Situation vorteilhafter ist - meist den Schadenstyp, gegen den das Ziel am anfälligsten ist.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

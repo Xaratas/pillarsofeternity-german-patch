@@ -541,7 +541,7 @@
     </Entry>
     <Entry>
       <ID>145</ID>
-      <DefaultText>Llines "Zwei-Lippen"</DefaultText>
+      <DefaultText>Llines „Zwei-Lippen“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -581,7 +581,7 @@
     </Entry>
     <Entry>
       <ID>153</ID>
-      <DefaultText>Llines "Zwei-Lippen"</DefaultText>
+      <DefaultText>Llines „Zwei-Lippen“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -611,12 +611,12 @@
     </Entry>
     <Entry>
       <ID>159</ID>
-      <DefaultText>"Linki" Lisc</DefaultText>
+      <DefaultText>„Linki“ Lisc</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>160</ID>
-      <DefaultText>Waldr "Drei-Finger"</DefaultText>
+      <DefaultText>Waldr „Drei-Finger“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3796,7 +3796,7 @@
     </Entry>
     <Entry>
       <ID>816</ID>
-      <DefaultText>Byne, "der Flinke"</DefaultText>
+      <DefaultText>Byne, „der Flinke“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4381,7 +4381,7 @@
     </Entry>
     <Entry>
       <ID>933</ID>
-      <DefaultText>Shane "Schüttler" Mulrian</DefaultText>
+      <DefaultText>Shane „Schüttler“ Mulrian</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4731,7 +4731,7 @@
     </Entry>
     <Entry>
       <ID>1003</ID>
-      <DefaultText>Jalistra "Die Palzerkerin" Stobar</DefaultText>
+      <DefaultText>Jalistra „Die Palzerkerin“ Stobar</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5721,7 +5721,7 @@
     </Entry>
     <Entry>
       <ID>1205</ID>
-      <DefaultText>Urblat, der "Schlitzer"</DefaultText>
+      <DefaultText>Urblat, der „Schlitzer“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
